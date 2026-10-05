@@ -41,8 +41,8 @@ Criterios usados en las tres evaluaciones (ver notas [Buenas Prácticas], [Tipos
 - **Claridad visual:** el gráfico es limpio y cumple la idea de Tufte de máxima simplicidad. Con tres series y un solo indicador no hay sobrecarga, lo que evita la [Infoxicación].
 - **Buenas prácticas:** cita la fuente y define el indicador. En un gráfico de líneas, que el eje Y no parta en cero es aceptable, pero amplifica visualmente variaciones de pocas décimas.
 - **Problemas de interpretación:**
-  1. *Trimestres móviles superpuestos:* dos puntos consecutivos comparten dos de sus tres meses. Un lector común puede leer cada punto como un dato independiente y sobrestimar la velocidad del cambio.
-  2. *Error muestral:* la ENE es una encuesta y sus cifras tienen margen de error. El gráfico muestra líneas «exactas», sin bandas de confianza. El texto del boletín sí indica qué variaciones son estadísticamente significativas, pero el gráfico no lo refleja ([Calidad de Datos]).
+    1. *Trimestres móviles superpuestos:* dos puntos consecutivos comparten dos de sus tres meses. Un lector común puede leer cada punto como un dato independiente y sobrestimar la velocidad del cambio.
+    2. *Error muestral:* la ENE es una encuesta y sus cifras tienen margen de error. El gráfico muestra líneas «exactas», sin bandas de confianza. El texto del boletín sí indica qué variaciones son estadísticamente significativas, pero el gráfico no lo refleja ([Calidad de Datos]).
 - **Posibles sesgos:** la ventana de solo 12 meses impide ver si el nivel actual es alto o bajo en perspectiva histórica (sesgo de encuadre temporal). La elección del período puede hacer parecer un alza puntual algo que es una tendencia, o al revés.
 
 ### 4. Propuesta de mejora
@@ -78,8 +78,8 @@ Criterios usados en las tres evaluaciones (ver notas [Buenas Prácticas], [Tipos
 - **Claridad visual:** muy buena. Diseño minimalista, etiquetas directas en las líneas y fuente visible en el pie. Cumple la estructura introducción, cuerpo y pie que Alcalde describe ([Estructura de la Infografía]).
 - **Buenas prácticas:** cita la fuente, permite descargar los datos y explica la metodología. Es un caso ejemplar de visualización exploratoria en el sentido de Cairo ([Visualización de Datos], [Interactividad]).
 - **Problemas de interpretación:**
-  1. *Per cápita vs. total:* un país pequeño con alto consumo puede aparecer como «gran emisor» aunque su aporte al total mundial sea mínimo, y al revés.
-  2. *Escala de colores del mapa:* los cortes de las categorías influyen en qué países parecen «iguales». Diferencias grandes dentro de un mismo color quedan ocultas.
+    1. *Per cápita vs. total:* un país pequeño con alto consumo puede aparecer como «gran emisor» aunque su aporte al total mundial sea mínimo, y al revés.
+    2. *Escala de colores del mapa:* los cortes de las categorías influyen en qué países parecen «iguales». Diferencias grandes dentro de un mismo color quedan ocultas.
 - **Posibles sesgos:** el indicador mide **emisiones territoriales**, es decir, producidas dentro de las fronteras. Los países que importan bienes manufacturados (principalmente economías desarrolladas) aparecen con menos emisiones que si se midiera el consumo. Además, excluye el cambio de uso de suelo, relevante para países con deforestación. No es un error, pero el enfoque elegido favorece cierta lectura.
 
 ### 4. Propuesta de mejora
