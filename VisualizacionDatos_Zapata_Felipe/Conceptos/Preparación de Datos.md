@@ -15,11 +15,16 @@ Es la parte menos vistosa pero la que más tiempo toma. Homologar, por ejemplo, 
 ## Importancia
 Garantiza la calidad e integridad que la visualización necesita para ser confiable.
 
+## En el libro
+- Herramientas de depuración que propone el libro: **Data Wrangler** (Stanford; 14 opciones para dividir, fusionar, eliminar, plegar o desplegar filas y columnas) y **OpenRefine** (antes Google Refine; limpieza y unificación de campos, y transformación con lenguaje GREL).
+- En el cap. 4 resume que la primera fase clave es «tener los datos limpios y armonizados, libres de erratas».
+
 ## Relacionado con
 - [[Calidad de Datos]]
 - [[Datos Estructurados]]
 - [[Datos No Estructurados]]
 - [[Proceso de Trabajo con Datos]]
+- [[Herramientas de Visualización]]
 
 ## Fuente
-Contenido de la Unidad 1.
+Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 3 «Herramientas» y Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 4 «Roles profesionales». Ver [[Alcalde - Visualización de la Información]].

@@ -15,6 +15,9 @@ Las cifras me impresionaron, sobre todo la de Eric Schmidt: lo que la humanidad 
 ## Importancia
 Hace necesaria la visualización: es la única forma práctica de explorar volúmenes masivos y encontrar patrones.
 
+## En el libro
+- En el cap. 4 el autor responde a quienes dicen que la visualización es «una moda pasajera asociada a palabras como big data»: en un entorno que genera datos sin parar, es cada vez más necesario darles sentido y comunicarlos con eficacia.
+
 ## Relacionado con
 - [[Datos]]
 - [[Datos No Estructurados]]
@@ -22,6 +25,7 @@ Hace necesaria la visualización: es la única forma práctica de explorar volú
 - [[Herramientas de Visualización]]
 - [[Visualización de Datos]]
 - [[Interactividad]]
+- [[Descubrimientos en los Datos]]
 
 ## Fuente
-Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «Contexto». Ver [[Alcalde - Visualización de la Información]].
+Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1 («Contexto») y cap. 4 («Contexto»). Ver [[Alcalde - Visualización de la Información]].
