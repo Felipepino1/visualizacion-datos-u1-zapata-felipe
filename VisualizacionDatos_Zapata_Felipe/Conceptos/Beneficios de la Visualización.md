@@ -10,7 +10,7 @@ area: "Práctica y aplicación"
 El libro destaca tres: **evita el exceso de información** (filtra y criba lo relevante), **facilita la comprensión** (la imagen se interpreta más rápido que el texto) y **mejora la socialización del contenido**.
 
 ## Resumen Personal
-Lo resumo así: la visualización ataca la infoxicación, aprovecha que somos visuales y aprovecha que somos sociales.
+la visualización ataca la infoxicación, aprovecha que somos visuales y aprovecha que somos sociales.
 
 ## Importancia
 Justifica el uso de la visualización en cualquier organización: ahorra tiempo, mejora la comprensión y facilita la comunicación.

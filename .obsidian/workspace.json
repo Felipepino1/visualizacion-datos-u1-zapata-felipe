@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "714e12f4a9e632e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4c78bd4701b198b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d111e3fac6b21ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86c9961886083a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "00f519874fdb55b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67b228f8996aa4d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "28a525c04d52ff6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b9a4da5e1c26da75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5
+  },
+  "right": {
+    "id": "fcae825e20039bcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6207ff0ef0abd1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00bc30a08598a607",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "429418db89c9950c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "214cc5a46bc08145",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b607238a4c0ae6ee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "3ba83aeb6f382002",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "67b228f8996aa4d2",
+  "lastOpenFiles": [
+    "Evidencias/GraphView.png",
+    "Evidencias/viz3.png",
+    "Evidencias/viz2.png",
+    "Evidencias/viz1.png",
+    "VisualizacionDatos_Zapata_Felipe/MOC/Mapa General de Visualización de Datos.md",
+    "VisualizacionDatos_Zapata_Felipe/MapaConceptual/Mapa Conceptual Integrador.canvas",
+    "VisualizacionDatos_Zapata_Felipe/Referencias/Alcalde - Visualización de la Información.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Calidad de Datos.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Datos.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Ámbitos de Aplicación.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Estilos de Visualización.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Formatos de Datos.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Ética de la Visualización.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Buenas Prácticas.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Visualización de Información.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Visualización de Datos.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Usuarios.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Toma de Decisiones.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Tipos de Infografía.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Tipos de Gráficos.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Tipos de Datos.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Storytelling.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Socialización del Contenido.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Roles Profesionales.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Recolección de Datos.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Proceso de Trabajo con Datos.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Preparación de Datos.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Pirámide DIKW.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Percepción Visual.md",
+    "VisualizacionDatos_Zapata_Felipe/Conceptos/Paradoja del Conocimiento.md",
+    "Recursos/Mapa_Conceptual_Cap1_Visualizacion_Informacion.pdf",
+    "MapaConceptual/Mapa_Conceptual_Integrador_Zapata_Felipe.pdf"
+  ]
+}

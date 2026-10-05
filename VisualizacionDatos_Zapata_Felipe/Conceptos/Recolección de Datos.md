@@ -10,7 +10,7 @@ area: "Gestión de datos"
 Etapa en que se obtienen los datos: encuestas, registros administrativos, sensores, web scraping, APIs o fuentes de datos abiertos. La estrategia de recolección define qué preguntas se podrán responder.
 
 ## Resumen Personal
-El libro insiste en «recabar la información, filtrarla y descubrir el punto clave». La recolección no es juntar todo, es juntar lo pertinente.
+El libro insiste en recabar la información, filtrarla y descubrir el punto clave. La recolección no es juntar todo, es juntar lo pertinente.
 
 ## Importancia
 Una mala recolección introduce sesgos que ninguna visualización puede corregir después.

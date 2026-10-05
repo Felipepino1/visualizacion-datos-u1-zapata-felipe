@@ -29,7 +29,7 @@ def figura(m):
     return f'<figure>{img}<figcaption><b>Figura {n}.</b> {cap} Fuente: {url}</figcaption></figure>'
 
 src = open(MD, encoding="utf-8").read()
-src = re.sub(r"\[\[FIGURA:(\d)\]\]", figura, src)
+src = re.sub(r"\{\{FIGURA:(\d)\}\}", figura, src)
 src = re.sub(r"(?<!\])\[([A-ZÁÉÍÓÚÑa-záéíóúñ][^\]\[]{2,40})\](?!\()", r'<span class="nota">\1</span>', src)
 body = markdown.markdown(src, extensions=["tables"])
 

@@ -10,7 +10,7 @@ area: "Fundamentos: datos, información y conocimiento"
 El conocimiento es el resultado de comprender y asimilar la información, integrándola con lo que ya sabemos para poder usarla, explicar fenómenos y tomar decisiones. El subtítulo del libro, *de los datos al conocimiento*, resume el recorrido completo.
 
 ## Resumen Personal
-Lo veo como información que ya es *mía*: la entendí, la conecté con otras cosas y puedo actuar con ella. Construir esta Vault es justamente un ejercicio de convertir lo leído en conocimiento propio mediante relaciones.
+Lo veo como información que ya es "mía": la entendí, la conecté con otras cosas y puedo actuar con ella. Construir esta Vault es justamente un ejercicio de convertir lo leído en conocimiento propio mediante relaciones.
 
 ## Importancia
 Es el objetivo final de la visualización: no basta con mostrar datos bonitos, el lector debe salir sabiendo algo que antes no sabía y que le sirve para decidir.

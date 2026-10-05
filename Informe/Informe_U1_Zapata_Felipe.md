@@ -18,7 +18,7 @@ Criterios usados en las tres evaluaciones (ver notas [Buenas Prácticas], [Tipos
 
 ## Visualización 1: Evolución de la tasa de desocupación según sexo (INE)
 
-[[FIGURA:1]]
+{{FIGURA:1}}
 
 ### 1. Descripción
 
@@ -33,29 +33,29 @@ Criterios usados en las tres evaluaciones (ver notas [Buenas Prácticas], [Tipos
 | Aspecto | Evaluación |
 |---|---|
 | **Tipo de gráfico** | Gráfico de líneas múltiples (serie temporal). |
-| **Variables** | Eje X: 13 trimestres móviles (feb-abr 2025 a feb-abr 2026), variable temporal ordinal. Eje Y: tasa de desocupación (%), variable cuantitativa continua. Series: total país, mujeres y hombres (variable categórica nominal). |
+| **Variables** | Eje X: 49 trimestres móviles (feb-abr 2022 a feb-abr 2026), variable temporal ordinal. Eje Y: tasa de desocupación (%), entre 5 % y 12 %, variable cuantitativa continua. Series: total país, mujeres y hombres (variable categórica nominal), con etiquetas del último valor al final de cada línea. |
 | **Calidad de representación** | Adecuada: la línea es la forma correcta para mostrar evolución en el tiempo ([Tipos de Gráficos]) y permite comparar la brecha entre sexos. |
 | **Nivel de complejidad** | Bajo a medio. Se lee sin formación técnica, aunque el concepto de «trimestre móvil» exige conocimiento previo. |
 
 ### 3. Evaluación crítica
 
 - **Claridad visual:** el gráfico es limpio y cumple la idea de Tufte de máxima simplicidad. Con tres series y un solo indicador no hay sobrecarga, lo que evita la [Infoxicación].
-- **Buenas prácticas:** cita la fuente y define el indicador. En un gráfico de líneas, que el eje Y no parta en cero es aceptable, pero amplifica visualmente variaciones de pocas décimas.
+- **Buenas prácticas:** cita la fuente, define el indicador y destaca el último dato de cada serie con una etiqueta del mismo color (10,5; 9,1; 8,0), lo que facilita la lectura inmediata. El eje Y parte en 5 %: en un gráfico de líneas es aceptable, pero amplifica visualmente variaciones de pocas décimas, como el salto final de la serie de mujeres.
 - **Problemas de interpretación:**
     1. *Trimestres móviles superpuestos:* dos puntos consecutivos comparten dos de sus tres meses. Un lector común puede leer cada punto como un dato independiente y sobrestimar la velocidad del cambio.
     2. *Error muestral:* la ENE es una encuesta y sus cifras tienen margen de error. El gráfico muestra líneas «exactas», sin bandas de confianza. El texto del boletín sí indica qué variaciones son estadísticamente significativas, pero el gráfico no lo refleja ([Calidad de Datos]).
-- **Posibles sesgos:** la ventana de solo 12 meses impide ver si el nivel actual es alto o bajo en perspectiva histórica (sesgo de encuadre temporal). La elección del período puede hacer parecer un alza puntual algo que es una tendencia, o al revés.
+- **Posibles sesgos:** la serie parte en 2022, después de la pandemia, por lo que no permite comparar con los niveles previos a 2020 (sesgo de encuadre temporal). Además, el eje truncado y el rojo intenso de la serie de mujeres hacen que el alza final se perciba más dramática de lo que la escala completa mostraría.
 
 ### 4. Propuesta de mejora
 
 - **Modificaría** el título por uno declarativo que comunique la conclusión, por ejemplo: «La desocupación femenina sube a 10,5 % y amplía la brecha con los hombres». Esto aplica el principio de un solo mensaje simple y concreto ([Paradoja del Conocimiento], [Storytelling]).
-- **Eliminaría** la leyenda separada y la reemplazaría por etiquetas directas al final de cada línea, para que el ojo no tenga que ir y volver ([Percepción Visual]).
+- **Eliminaría** la leyenda superior: el gráfico ya tiene etiquetas al final de cada línea, y bastaría agregarles el nombre de la serie («Mujeres 10,5») para que el ojo no tenga que ir y volver ([Percepción Visual]).
 - **Agregaría** bandas sombreadas de intervalo de confianza, una anotación sobre los trimestres con variación significativa y una línea de referencia del promedio de los últimos 5 años.
 - **Visualización propuesta:** un gráfico de líneas con período extendido (por ejemplo, desde 2018) y un segundo panel pequeño con la **brecha** mujeres–hombres en puntos porcentuales. En la versión web, un selector de período para explorar ([Interactividad]).
 
 ## Visualización 2: Emisiones de CO₂ per cápita (Our World in Data)
 
-[[FIGURA:2]]
+{{FIGURA:2}}
 
 ### 1. Descripción
 
@@ -92,7 +92,7 @@ Criterios usados en las tres evaluaciones (ver notas [Buenas Prácticas], [Tipos
 
 ## Visualización 3: Proyección de inflación (Banco Central de Chile, IPoM septiembre 2026)
 
-[[FIGURA:3]]
+{{FIGURA:3}}
 
 ### 1. Descripción
 
@@ -107,22 +107,22 @@ Criterios usados en las tres evaluaciones (ver notas [Buenas Prácticas], [Tipos
 | Aspecto | Evaluación |
 |---|---|
 | **Tipo de gráfico** | Gráfico de líneas en dos paneles: inflación total (IPC) e inflación subyacente (sin volátiles). |
-| **Variables** | Eje X: tiempo (2021-2028). Eje Y: variación anual (%). Series: dato efectivo, proyección del IPoM de septiembre 2026 y proyección del IPoM de junio 2026 (comparación entre informes). |
+| **Variables** | Eje X: tiempo (2021-2028). Eje Y: variación anual (%), de 0 % a 14 %. Series: dato efectivo (gris), proyección del IPoM de septiembre 2026 (rojo) y del IPoM de junio 2026 (verde). Una línea punteada horizontal marca la meta de 3 % y un área gris indica el período proyectado (desde el tercer trimestre de 2026). |
 | **Calidad de representación** | Correcta para la audiencia experta: la comparación entre la proyección actual y la anterior muestra cómo cambió la evaluación del Banco. |
 | **Nivel de complejidad** | Alto. Supone conocer conceptos como inflación subyacente, horizonte de política y meta de 3 %. |
 
 ### 3. Evaluación crítica
 
-- **Claridad visual:** los dos paneles con el mismo eje temporal facilitan la comparación. Sin embargo, distinguir el dato observado de la proyección depende del estilo de línea, y eso no siempre se percibe con rapidez.
-- **Buenas prácticas:** cumple con título, fuente y unidades. No incluye bandas de incertidumbre, que muchos bancos centrales publican como *fan charts*.
+- **Claridad visual:** los dos paneles con el mismo eje temporal facilitan la comparación, y el área gris separa con claridad el dato observado de la proyección. Sin embargo, la escala de 0 % a 14 % está dominada por el máximo de 2022 (cerca de 13-14 %), y el tramo proyectado (entre 2,6 % y 4,3 %) queda comprimido en una franja delgada: las líneas de junio y septiembre casi se superponen y la revisión entre ambos informes, que es justamente lo que el gráfico quiere mostrar, apenas se distingue.
+- **Buenas prácticas:** cumple con título, fuente, unidades, nota explicativa del área gris y línea de referencia de la meta de 3 %. No incluye bandas de incertidumbre, que muchos bancos centrales publican como *fan charts*. Además, usa rojo y verde para las dos proyecciones, una combinación difícil de distinguir para personas con daltonismo.
 - **Problemas de interpretación:** al mostrar la proyección como una sola línea, un lector no experto (por ejemplo, alguien que ve el gráfico en un noticiero) puede entenderla como un pronóstico seguro y no como un escenario central con incertidumbre. Esto da una **falsa precisión**.
-- **Posibles sesgos:** el mensaje de convergencia a la meta queda reforzado visualmente sin la dispersión de escenarios posibles. El propio informe describe un «corredor» con escenarios alternativos de tasa, pero el gráfico de inflación no lo traduce en una representación visual de riesgo.
+- **Posibles sesgos:** el mensaje de convergencia a la meta queda reforzado visualmente sin la dispersión de escenarios posibles. La escala dominada por el peak de 2022 también hace que una inflación actual de 4 % se vea «baja y controlada», lo que encuadra la lectura a favor de la estabilidad. El propio informe describe un «corredor» con escenarios alternativos de tasa, pero el gráfico de inflación no lo traduce en una representación visual de riesgo.
 
 ### 4. Propuesta de mejora
 
-- **Modificaría** la separación entre dato efectivo y proyección: fondo sombreado para el período proyectado y una línea vertical rotulada «hoy».
+- **Modificaría** la escala: agregaría un panel de acercamiento (2025-2028, eje de 2 % a 5 %) para que la revisión entre junio y septiembre sea visible, y reemplazaría el par rojo/verde por colores aptos para daltonismo (por ejemplo, azul y naranjo).
 - **Eliminaría** la serie del IPoM anterior de la vista principal y la pasaría a un gráfico complementario. Para un público no experto, tres líneas que se cruzan añaden carga cognitiva.
-- **Agregaría** bandas de confianza (10 %-90 %) alrededor del escenario central y una franja horizontal que marque la meta de 3 % y el rango de tolerancia de 2 % a 4 %.
+- **Agregaría** bandas de confianza (10 %-90 %) alrededor del escenario central y, junto a la línea de meta que ya existe, una franja sombreada con el rango de tolerancia de 2 % a 4 %.
 - **Visualización propuesta:** un *fan chart* con meta y rango sombreados, además de una versión simplificada para comunicados de prensa con un título declarativo («La inflación volvería al 3 % a mediados de 2027»). Así se adapta el estilo según el usuario ([Estilos de Visualización], [Usuarios]).
 
 ## Síntesis comparativa
@@ -133,7 +133,7 @@ Criterios usados en las tres evaluaciones (ver notas [Buenas Prácticas], [Tipos
 | Tipo de gráfico | Líneas | Líneas + mapa + tabla | Líneas (2 paneles) |
 | Interactividad | No | Alta | No |
 | Muestra la incertidumbre | No (solo en el texto) | No aplica (datos de inventario) | No |
-| Principal riesgo | Encuadre temporal corto | Indicador territorial vs. consumo | Falsa precisión |
+| Principal riesgo | Encuadre temporal y eje truncado | Indicador territorial vs. consumo | Falsa precisión y escala comprimida |
 | Complejidad | Baja-media | Media | Alta |
 | Objetivo (Alcalde) | Exponer | Explorar | Explicar |
 

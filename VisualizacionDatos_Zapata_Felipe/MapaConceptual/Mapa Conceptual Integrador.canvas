@@ -1,1180 +1,133 @@
 {
- "nodes": [
-  {
-   "id": "n0",
-   "type": "text",
-   "text": "# Visualización de la Información",
-   "x": -210,
-   "y": -55,
-   "width": 420,
-   "height": 110,
-   "color": "1"
-  },
-  {
-   "id": "n1",
-   "type": "text",
-   "text": "## Datos",
-   "x": 933,
-   "y": -470,
-   "width": 320,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "n2",
-   "type": "text",
-   "text": "Tipos de datos\n(cuantitativos / cualitativos)",
-   "x": 1775,
-   "y": -169,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n3",
-   "type": "text",
-   "text": "Datos estructurados y\nno estructurados",
-   "x": 1767,
-   "y": -449,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n4",
-   "type": "text",
-   "text": "Datos abiertos",
-   "x": 1733,
-   "y": -715,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n5",
-   "type": "text",
-   "text": "Calidad de datos",
-   "x": 1683,
-   "y": -962,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n6",
-   "type": "text",
-   "text": "Fuentes: repositorios\npúblicos y comerciales",
-   "x": 1622,
-   "y": -1187,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n7",
-   "type": "text",
-   "text": "## Información",
-   "x": 525,
-   "y": -896,
-   "width": 320,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "n8",
-   "type": "text",
-   "text": "Significado e importancia",
-   "x": 1466,
-   "y": -1541,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n9",
-   "type": "text",
-   "text": "Vigencia, validez y valor",
-   "x": 1176,
-   "y": -1690,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n10",
-   "type": "text",
-   "text": "## Conocimiento",
-   "x": 16,
-   "y": -1028,
-   "width": 320,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "n11",
-   "type": "text",
-   "text": "Pirámide DIKW",
-   "x": 724,
-   "y": -1840,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n12",
-   "type": "text",
-   "text": "Toma de decisiones",
-   "x": 254,
-   "y": -1915,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n13",
-   "type": "text",
-   "text": "Paradoja del conocimiento",
-   "x": -352,
-   "y": -1919,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n14",
-   "type": "text",
-   "text": "## Diseño de Información\n(forma)",
-   "x": -732,
-   "y": -922,
-   "width": 320,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "n15",
-   "type": "text",
-   "text": "Capacidad de síntesis",
-   "x": -983,
-   "y": -1819,
-   "width": 300,
-   "height": 80,
-   "color": "2"
-  },
-  {
-   "id": "n16",
-   "type": "text",
-   "text": "Capacidad estética",
-   "x": -1435,
-   "y": -1669,
-   "width": 300,
-   "height": 80,
-   "color": "2"
-  },
-  {
-   "id": "n17",
-   "type": "text",
-   "text": "Simplicidad (Tufte)",
-   "x": -1721,
-   "y": -1519,
-   "width": 300,
-   "height": 80,
-   "color": "2"
-  },
-  {
-   "id": "n18",
-   "type": "text",
-   "text": "## Infografía",
-   "x": -1107,
-   "y": -654,
-   "width": 320,
-   "height": 90,
-   "color": "3"
-  },
-  {
-   "id": "n19",
-   "type": "text",
-   "text": "Estructura:\nintroducción, cuerpo, pie",
-   "x": -1805,
-   "y": -1369,
-   "width": 300,
-   "height": 80,
-   "color": "3"
-  },
-  {
-   "id": "n20",
-   "type": "text",
-   "text": "Tipos según composición",
-   "x": -1878,
-   "y": -1179,
-   "width": 300,
-   "height": 80,
-   "color": "3"
-  },
-  {
-   "id": "n21",
-   "type": "text",
-   "text": "Tipos según finalidad",
-   "x": -1935,
-   "y": -959,
-   "width": 300,
-   "height": 80,
-   "color": "3"
-  },
-  {
-   "id": "n22",
-   "type": "text",
-   "text": "## Visualización de Datos",
-   "x": -1156,
-   "y": -260,
-   "width": 320,
-   "height": 90,
-   "color": "3"
-  },
-  {
-   "id": "n23",
-   "type": "text",
-   "text": "Interactividad y exploración",
-   "x": -1975,
-   "y": -715,
-   "width": 300,
-   "height": 80,
-   "color": "3"
-  },
-  {
-   "id": "n24",
-   "type": "text",
-   "text": "Tipos de gráficos",
-   "x": -1988,
-   "y": -451,
-   "width": 300,
-   "height": 80,
-   "color": "3"
-  },
-  {
-   "id": "n25",
-   "type": "text",
-   "text": "Estilos de visualización",
-   "x": -1982,
-   "y": -172,
-   "width": 300,
-   "height": 80,
-   "color": "3"
-  },
-  {
-   "id": "n26",
-   "type": "text",
-   "text": "## Infoxicación",
-   "x": -1125,
-   "y": 114,
-   "width": 320,
-   "height": 90,
-   "color": "1"
-  },
-  {
-   "id": "n27",
-   "type": "text",
-   "text": "Big Data\n(2,5 trillones de bytes/día)",
-   "x": 1550,
-   "y": -1383,
-   "width": 300,
-   "height": 80,
-   "color": "1"
-  },
-  {
-   "id": "n28",
-   "type": "text",
-   "text": "Fatiga por información",
-   "x": -1973,
-   "y": 112,
-   "width": 300,
-   "height": 80,
-   "color": "1"
-  },
-  {
-   "id": "n29",
-   "type": "text",
-   "text": "## Comunicación Visual",
-   "x": -1095,
-   "y": 400,
-   "width": 320,
-   "height": 90,
-   "color": "6"
-  },
-  {
-   "id": "n30",
-   "type": "text",
-   "text": "Seres visuales\n(10 % vs. 65 % de recuerdo)",
-   "x": -1938,
-   "y": 656,
-   "width": 300,
-   "height": 80,
-   "color": "6"
-  },
-  {
-   "id": "n31",
-   "type": "text",
-   "text": "Storytelling",
-   "x": -1888,
-   "y": 899,
-   "width": 300,
-   "height": 80,
-   "color": "6"
-  },
-  {
-   "id": "n32",
-   "type": "text",
-   "text": "## Beneficios",
-   "x": -961,
-   "y": 642,
-   "width": 320,
-   "height": 90,
-   "color": "5"
-  },
-  {
-   "id": "n33",
-   "type": "text",
-   "text": "Evita el exceso\nde información",
-   "x": -1961,
-   "y": 391,
-   "width": 300,
-   "height": 80,
-   "color": "5"
-  },
-  {
-   "id": "n34",
-   "type": "text",
-   "text": "Facilita la comprensión",
-   "x": -1823,
-   "y": 1120,
-   "width": 300,
-   "height": 80,
-   "color": "5"
-  },
-  {
-   "id": "n35",
-   "type": "text",
-   "text": "Socialización del contenido",
-   "x": -1733,
-   "y": 1312,
-   "width": 300,
-   "height": 80,
-   "color": "5"
-  },
-  {
-   "id": "n36",
-   "type": "text",
-   "text": "## Historia",
-   "x": -640,
-   "y": 830,
-   "width": 320,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "n37",
-   "type": "text",
-   "text": "Charles Minard (1812-1813)",
-   "x": -1637,
-   "y": 1465,
-   "width": 300,
-   "height": 80,
-   "color": "2"
-  },
-  {
-   "id": "n38",
-   "type": "text",
-   "text": "John Snow (cólera, 1854)",
-   "x": -1345,
-   "y": 1615,
-   "width": 300,
-   "height": 80,
-   "color": "2"
-  },
-  {
-   "id": "n39",
-   "type": "text",
-   "text": "## Usuarios",
-   "x": -293,
-   "y": 938,
-   "width": 320,
-   "height": 90,
-   "color": "6"
-  },
-  {
-   "id": "n40",
-   "type": "text",
-   "text": "Mensaje simple, concreto\ny creíble",
-   "x": -888,
-   "y": 1765,
-   "width": 300,
-   "height": 80,
-   "color": "6"
-  },
-  {
-   "id": "n41",
-   "type": "text",
-   "text": "## Proceso de trabajo\ncon datos",
-   "x": 447,
-   "y": 867,
-   "width": 320,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "n42",
-   "type": "text",
-   "text": "Recolección",
-   "x": 126,
-   "y": 1858,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n43",
-   "type": "text",
-   "text": "Preparación y homologación",
-   "x": 668,
-   "y": 1771,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n44",
-   "type": "text",
-   "text": "Herramientas de visualización",
-   "x": 1125,
-   "y": 1621,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n45",
-   "type": "text",
-   "text": "Objetivo: exponer,\nexplicar o explorar",
-   "x": -302,
-   "y": 1859,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n46",
-   "type": "text",
-   "text": "Descubrir tendencias,\npatrones y anomalías",
-   "x": 1418,
-   "y": 1471,
-   "width": 300,
-   "height": 80,
-   "color": "4"
-  },
-  {
-   "id": "n47",
-   "type": "text",
-   "text": "## Roles profesionales",
-   "x": 785,
-   "y": 591,
-   "width": 320,
-   "height": 90,
-   "color": "6"
-  },
-  {
-   "id": "n48",
-   "type": "text",
-   "text": "8 roles (Andy Kirk)",
-   "x": 1525,
-   "y": 1316,
-   "width": 300,
-   "height": 80,
-   "color": "6"
-  },
-  {
-   "id": "n49",
-   "type": "text",
-   "text": "Competencias: buscar, filtrar,\nsintetizar, relacionar",
-   "x": 1623,
-   "y": 1124,
-   "width": 300,
-   "height": 80,
-   "color": "6"
-  },
-  {
-   "id": "n50",
-   "type": "text",
-   "text": "## Ética y buenas prácticas",
-   "x": 895,
-   "y": 408,
-   "width": 320,
-   "height": 90,
-   "color": "1"
-  },
-  {
-   "id": "n51",
-   "type": "text",
-   "text": "Visual Information\nManifesto (M. Lima)",
-   "x": 1685,
-   "y": 904,
-   "width": 300,
-   "height": 80,
-   "color": "1"
-  },
-  {
-   "id": "n52",
-   "type": "text",
-   "text": "Evitar el eye candy",
-   "x": 1739,
-   "y": 660,
-   "width": 300,
-   "height": 80,
-   "color": "1"
-  },
-  {
-   "id": "n53",
-   "type": "text",
-   "text": "## Ámbitos de aplicación",
-   "x": 951,
-   "y": 128,
-   "width": 320,
-   "height": 90,
-   "color": "5"
-  },
-  {
-   "id": "n54",
-   "type": "text",
-   "text": "Periodismo y medios",
-   "x": 1761,
-   "y": 395,
-   "width": 300,
-   "height": 80,
-   "color": "5"
-  },
-  {
-   "id": "n55",
-   "type": "text",
-   "text": "Empresa y marketing",
-   "x": 1767,
-   "y": 115,
-   "width": 300,
-   "height": 80,
-   "color": "5"
-  },
-  {
-   "id": "n56",
-   "type": "text",
-   "text": "**Leyenda**\n- Centro: concepto central\n- Nivel 2: conceptos secundarios (15)\n- Nivel 3: conceptos terciarios\n- Flechas rojas: relaciones cruzadas",
-   "x": -1838,
-   "y": -2179,
-   "width": 420,
-   "height": 200
-  }
- ],
- "edges": [
-  {
-   "id": "e0",
-   "fromNode": "n0",
-   "fromSide": "right",
-   "toNode": "n1",
-   "toSide": "left",
-   "label": "utiliza",
-   "color": "4"
-  },
-  {
-   "id": "e1",
-   "fromNode": "n1",
-   "fromSide": "right",
-   "toNode": "n2",
-   "toSide": "left",
-   "label": "se clasifican en"
-  },
-  {
-   "id": "e2",
-   "fromNode": "n1",
-   "fromSide": "right",
-   "toNode": "n3",
-   "toSide": "left",
-   "label": "pueden ser"
-  },
-  {
-   "id": "e3",
-   "fromNode": "n1",
-   "fromSide": "right",
-   "toNode": "n4",
-   "toSide": "left",
-   "label": "provienen de"
-  },
-  {
-   "id": "e4",
-   "fromNode": "n1",
-   "fromSide": "right",
-   "toNode": "n5",
-   "toSide": "left",
-   "label": "depende de"
-  },
-  {
-   "id": "e5",
-   "fromNode": "n1",
-   "fromSide": "top",
-   "toNode": "n6",
-   "toSide": "bottom",
-   "label": "se obtienen de"
-  },
-  {
-   "id": "e6",
-   "fromNode": "n0",
-   "fromSide": "top",
-   "toNode": "n7",
-   "toSide": "bottom",
-   "label": "transforma datos en",
-   "color": "4"
-  },
-  {
-   "id": "e7",
-   "fromNode": "n7",
-   "fromSide": "right",
-   "toNode": "n8",
-   "toSide": "left",
-   "label": "se califica por"
-  },
-  {
-   "id": "e8",
-   "fromNode": "n7",
-   "fromSide": "top",
-   "toNode": "n9",
-   "toSide": "bottom",
-   "label": "se califica por"
-  },
-  {
-   "id": "e9",
-   "fromNode": "n0",
-   "fromSide": "top",
-   "toNode": "n10",
-   "toSide": "bottom",
-   "label": "facilita",
-   "color": "4"
-  },
-  {
-   "id": "e10",
-   "fromNode": "n10",
-   "fromSide": "top",
-   "toNode": "n11",
-   "toSide": "bottom",
-   "label": "se explica con"
-  },
-  {
-   "id": "e11",
-   "fromNode": "n10",
-   "fromSide": "top",
-   "toNode": "n12",
-   "toSide": "bottom",
-   "label": "permite"
-  },
-  {
-   "id": "e12",
-   "fromNode": "n10",
-   "fromSide": "top",
-   "toNode": "n13",
-   "toSide": "bottom",
-   "label": "enfrenta"
-  },
-  {
-   "id": "e13",
-   "fromNode": "n0",
-   "fromSide": "top",
-   "toNode": "n14",
-   "toSide": "bottom",
-   "label": "depende de",
-   "color": "2"
-  },
-  {
-   "id": "e14",
-   "fromNode": "n14",
-   "fromSide": "top",
-   "toNode": "n15",
-   "toSide": "bottom",
-   "label": "requiere"
-  },
-  {
-   "id": "e15",
-   "fromNode": "n14",
-   "fromSide": "top",
-   "toNode": "n16",
-   "toSide": "bottom",
-   "label": "requiere"
-  },
-  {
-   "id": "e16",
-   "fromNode": "n14",
-   "fromSide": "left",
-   "toNode": "n17",
-   "toSide": "right",
-   "label": "busca"
-  },
-  {
-   "id": "e17",
-   "fromNode": "n0",
-   "fromSide": "left",
-   "toNode": "n18",
-   "toSide": "right",
-   "label": "relaciona",
-   "color": "3"
-  },
-  {
-   "id": "e18",
-   "fromNode": "n18",
-   "fromSide": "top",
-   "toNode": "n19",
-   "toSide": "bottom",
-   "label": "se organiza en"
-  },
-  {
-   "id": "e19",
-   "fromNode": "n18",
-   "fromSide": "left",
-   "toNode": "n20",
-   "toSide": "right",
-   "label": "se clasifica en"
-  },
-  {
-   "id": "e20",
-   "fromNode": "n18",
-   "fromSide": "left",
-   "toNode": "n21",
-   "toSide": "right",
-   "label": "se clasifica en"
-  },
-  {
-   "id": "e21",
-   "fromNode": "n0",
-   "fromSide": "left",
-   "toNode": "n22",
-   "toSide": "right",
-   "label": "relaciona",
-   "color": "3"
-  },
-  {
-   "id": "e22",
-   "fromNode": "n22",
-   "fromSide": "left",
-   "toNode": "n23",
-   "toSide": "right",
-   "label": "se basa en"
-  },
-  {
-   "id": "e23",
-   "fromNode": "n22",
-   "fromSide": "left",
-   "toNode": "n24",
-   "toSide": "right",
-   "label": "utiliza"
-  },
-  {
-   "id": "e24",
-   "fromNode": "n22",
-   "fromSide": "left",
-   "toNode": "n25",
-   "toSide": "right",
-   "label": "adopta"
-  },
-  {
-   "id": "e25",
-   "fromNode": "n0",
-   "fromSide": "left",
-   "toNode": "n26",
-   "toSide": "right",
-   "label": "combate",
-   "color": "1"
-  },
-  {
-   "id": "e26",
-   "fromNode": "n26",
-   "fromSide": "right",
-   "toNode": "n27",
-   "toSide": "left",
-   "label": "se agrava con"
-  },
-  {
-   "id": "e27",
-   "fromNode": "n26",
-   "fromSide": "left",
-   "toNode": "n28",
-   "toSide": "right",
-   "label": "produce"
-  },
-  {
-   "id": "e28",
-   "fromNode": "n0",
-   "fromSide": "left",
-   "toNode": "n29",
-   "toSide": "right",
-   "label": "utiliza",
-   "color": "6"
-  },
-  {
-   "id": "e29",
-   "fromNode": "n29",
-   "fromSide": "left",
-   "toNode": "n30",
-   "toSide": "right",
-   "label": "se fundamenta en"
-  },
-  {
-   "id": "e30",
-   "fromNode": "n29",
-   "fromSide": "left",
-   "toNode": "n31",
-   "toSide": "right",
-   "label": "se apoya en"
-  },
-  {
-   "id": "e31",
-   "fromNode": "n0",
-   "fromSide": "left",
-   "toNode": "n32",
-   "toSide": "right",
-   "label": "produce",
-   "color": "5"
-  },
-  {
-   "id": "e32",
-   "fromNode": "n32",
-   "fromSide": "left",
-   "toNode": "n33",
-   "toSide": "right",
-   "label": "incluye"
-  },
-  {
-   "id": "e33",
-   "fromNode": "n32",
-   "fromSide": "left",
-   "toNode": "n34",
-   "toSide": "right",
-   "label": "incluye"
-  },
-  {
-   "id": "e34",
-   "fromNode": "n32",
-   "fromSide": "left",
-   "toNode": "n35",
-   "toSide": "right",
-   "label": "incluye"
-  },
-  {
-   "id": "e35",
-   "fromNode": "n0",
-   "fromSide": "bottom",
-   "toNode": "n36",
-   "toSide": "top",
-   "label": "tiene como antecedente",
-   "color": "2"
-  },
-  {
-   "id": "e36",
-   "fromNode": "n36",
-   "fromSide": "left",
-   "toNode": "n37",
-   "toSide": "right",
-   "label": "incluye a"
-  },
-  {
-   "id": "e37",
-   "fromNode": "n36",
-   "fromSide": "bottom",
-   "toNode": "n38",
-   "toSide": "top",
-   "label": "incluye a"
-  },
-  {
-   "id": "e38",
-   "fromNode": "n0",
-   "fromSide": "bottom",
-   "toNode": "n39",
-   "toSide": "top",
-   "label": "se dirige a",
-   "color": "6"
-  },
-  {
-   "id": "e39",
-   "fromNode": "n39",
-   "fromSide": "bottom",
-   "toNode": "n40",
-   "toSide": "top",
-   "label": "necesitan"
-  },
-  {
-   "id": "e40",
-   "fromNode": "n0",
-   "fromSide": "bottom",
-   "toNode": "n41",
-   "toSide": "top",
-   "label": "requiere",
-   "color": "4"
-  },
-  {
-   "id": "e41",
-   "fromNode": "n41",
-   "fromSide": "bottom",
-   "toNode": "n42",
-   "toSide": "top",
-   "label": "inicia con"
-  },
-  {
-   "id": "e42",
-   "fromNode": "n41",
-   "fromSide": "bottom",
-   "toNode": "n43",
-   "toSide": "top",
-   "label": "continúa con"
-  },
-  {
-   "id": "e43",
-   "fromNode": "n41",
-   "fromSide": "bottom",
-   "toNode": "n44",
-   "toSide": "top",
-   "label": "se apoya en"
-  },
-  {
-   "id": "e44",
-   "fromNode": "n41",
-   "fromSide": "bottom",
-   "toNode": "n45",
-   "toSide": "top",
-   "label": "define"
-  },
-  {
-   "id": "e45",
-   "fromNode": "n41",
-   "fromSide": "right",
-   "toNode": "n46",
-   "toSide": "left",
-   "label": "busca"
-  },
-  {
-   "id": "e46",
-   "fromNode": "n0",
-   "fromSide": "right",
-   "toNode": "n47",
-   "toSide": "left",
-   "label": "es realizada por",
-   "color": "6"
-  },
-  {
-   "id": "e47",
-   "fromNode": "n47",
-   "fromSide": "right",
-   "toNode": "n48",
-   "toSide": "left",
-   "label": "se organizan en"
-  },
-  {
-   "id": "e48",
-   "fromNode": "n47",
-   "fromSide": "right",
-   "toNode": "n49",
-   "toSide": "left",
-   "label": "requieren"
-  },
-  {
-   "id": "e49",
-   "fromNode": "n0",
-   "fromSide": "right",
-   "toNode": "n50",
-   "toSide": "left",
-   "label": "se rige por",
-   "color": "1"
-  },
-  {
-   "id": "e50",
-   "fromNode": "n50",
-   "fromSide": "right",
-   "toNode": "n51",
-   "toSide": "left",
-   "label": "se basa en"
-  },
-  {
-   "id": "e51",
-   "fromNode": "n50",
-   "fromSide": "right",
-   "toNode": "n52",
-   "toSide": "left",
-   "label": "exige"
-  },
-  {
-   "id": "e52",
-   "fromNode": "n0",
-   "fromSide": "right",
-   "toNode": "n53",
-   "toSide": "left",
-   "label": "se aplica en",
-   "color": "5"
-  },
-  {
-   "id": "e53",
-   "fromNode": "n53",
-   "fromSide": "right",
-   "toNode": "n54",
-   "toSide": "left",
-   "label": "como"
-  },
-  {
-   "id": "e54",
-   "fromNode": "n53",
-   "fromSide": "right",
-   "toNode": "n55",
-   "toSide": "left",
-   "label": "como"
-  },
-  {
-   "id": "e55",
-   "fromNode": "n18",
-   "toNode": "n22",
-   "label": "continuo presentación ↔ exploración (Cairo)",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "bottom",
-   "toSide": "top"
-  },
-  {
-   "id": "e56",
-   "fromNode": "n27",
-   "toNode": "n1",
-   "label": "multiplica",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "bottom",
-   "toSide": "top"
-  },
-  {
-   "id": "e57",
-   "fromNode": "n26",
-   "toNode": "n33",
-   "label": "se resuelve con",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "left",
-   "toSide": "right"
-  },
-  {
-   "id": "e58",
-   "fromNode": "n13",
-   "toNode": "n31",
-   "label": "se supera con",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "bottom",
-   "toSide": "top"
-  },
-  {
-   "id": "e59",
-   "fromNode": "n5",
-   "toNode": "n12",
-   "label": "condiciona",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "left",
-   "toSide": "right"
-  },
-  {
-   "id": "e60",
-   "fromNode": "n2",
-   "toNode": "n24",
-   "label": "determinan",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "left",
-   "toSide": "right"
-  },
-  {
-   "id": "e61",
-   "fromNode": "n38",
-   "toNode": "n12",
-   "label": "ejemplifica",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "top",
-   "toSide": "bottom"
-  },
-  {
-   "id": "e62",
-   "fromNode": "n44",
-   "toNode": "n23",
-   "label": "permiten",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "left",
-   "toSide": "right"
-  },
-  {
-   "id": "e63",
-   "fromNode": "n19",
-   "toNode": "n31",
-   "label": "organiza",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "bottom",
-   "toSide": "top"
-  },
-  {
-   "id": "e64",
-   "fromNode": "n35",
-   "toNode": "n39",
-   "label": "llega a",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "right",
-   "toSide": "left"
-  },
-  {
-   "id": "e65",
-   "fromNode": "n7",
-   "toNode": "n29",
-   "label": "se transmite mediante",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "left",
-   "toSide": "right"
-  },
-  {
-   "id": "e66",
-   "fromNode": "n52",
-   "toNode": "n16",
-   "label": "equilibra",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "left",
-   "toSide": "right"
-  },
-  {
-   "id": "e67",
-   "fromNode": "n45",
-   "toNode": "n39",
-   "label": "depende de",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "top",
-   "toSide": "bottom"
-  },
-  {
-   "id": "e68",
-   "fromNode": "n48",
-   "toNode": "n41",
-   "label": "participan en sus fases",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "left",
-   "toSide": "right"
-  },
-  {
-   "id": "e69",
-   "fromNode": "n6",
-   "toNode": "n4",
-   "label": "incluyen",
-   "color": "1",
-   "toEnd": "arrow",
-   "fromSide": "bottom",
-   "toSide": "top"
-  }
- ]
+	"nodes":[
+		{"id":"n0","type":"text","text":"# Visualización de la Información","x":-210,"y":-55,"width":420,"height":110,"color":"1"},
+		{"id":"n1","type":"text","text":"## Datos","x":933,"y":-470,"width":320,"height":90,"color":"4"},
+		{"id":"n2","type":"text","text":"Tipos de datos\n(cuantitativos / cualitativos)","x":1775,"y":-169,"width":300,"height":80,"color":"4"},
+		{"id":"n3","type":"text","text":"Datos estructurados y\nno estructurados","x":1767,"y":-449,"width":300,"height":80,"color":"4"},
+		{"id":"n4","type":"text","text":"Datos abiertos","x":1733,"y":-715,"width":300,"height":80,"color":"4"},
+		{"id":"n5","type":"text","text":"Calidad de datos","x":1683,"y":-962,"width":300,"height":80,"color":"4"},
+		{"id":"n6","type":"text","text":"Fuentes: repositorios\npúblicos y comerciales","x":1622,"y":-1187,"width":300,"height":80,"color":"4"},
+		{"id":"n7","type":"text","text":"## Información","x":525,"y":-896,"width":320,"height":90,"color":"4"},
+		{"id":"n8","type":"text","text":"Significado e importancia","x":1466,"y":-1541,"width":300,"height":80,"color":"4"},
+		{"id":"n9","type":"text","text":"Vigencia, validez y valor","x":1176,"y":-1690,"width":300,"height":80,"color":"4"},
+		{"id":"n10","type":"text","text":"## Conocimiento","x":16,"y":-1028,"width":320,"height":90,"color":"4"},
+		{"id":"n11","type":"text","text":"Pirámide DIKW","x":724,"y":-1840,"width":300,"height":80,"color":"4"},
+		{"id":"n12","type":"text","text":"Toma de decisiones","x":254,"y":-1915,"width":300,"height":80,"color":"4"},
+		{"id":"n13","type":"text","text":"Paradoja del conocimiento","x":-352,"y":-1919,"width":300,"height":80,"color":"4"},
+		{"id":"n14","type":"text","text":"## Diseño de Información\n(forma)","x":-732,"y":-922,"width":320,"height":90,"color":"2"},
+		{"id":"n15","type":"text","text":"Capacidad de síntesis","x":-983,"y":-1819,"width":300,"height":80,"color":"2"},
+		{"id":"n16","type":"text","text":"Capacidad estética","x":-1435,"y":-1669,"width":300,"height":80,"color":"2"},
+		{"id":"n17","type":"text","text":"Simplicidad (Tufte)","x":-1721,"y":-1519,"width":300,"height":80,"color":"2"},
+		{"id":"n18","type":"text","text":"## Infografía","x":-1107,"y":-654,"width":320,"height":90,"color":"3"},
+		{"id":"n19","type":"text","text":"Estructura:\nintroducción, cuerpo, pie","x":-1805,"y":-1369,"width":300,"height":80,"color":"3"},
+		{"id":"n20","type":"text","text":"Tipos según composición","x":-1878,"y":-1179,"width":300,"height":80,"color":"3"},
+		{"id":"n21","type":"text","text":"Tipos según finalidad","x":-1935,"y":-959,"width":300,"height":80,"color":"3"},
+		{"id":"n22","type":"text","text":"## Visualización de Datos","x":-1156,"y":-260,"width":320,"height":90,"color":"3"},
+		{"id":"n23","type":"text","text":"Interactividad y exploración","x":-1975,"y":-715,"width":300,"height":80,"color":"3"},
+		{"id":"n24","type":"text","text":"Tipos de gráficos","x":-1988,"y":-451,"width":300,"height":80,"color":"3"},
+		{"id":"n25","type":"text","text":"Estilos de visualización","x":-1982,"y":-172,"width":300,"height":80,"color":"3"},
+		{"id":"n26","type":"text","text":"## Infoxicación","x":-1125,"y":114,"width":320,"height":90,"color":"1"},
+		{"id":"n27","type":"text","text":"Big Data\n(2,5 trillones de bytes/día)","x":1550,"y":-1383,"width":300,"height":80,"color":"1"},
+		{"id":"n28","type":"text","text":"Fatiga por información","x":-1973,"y":112,"width":300,"height":80,"color":"1"},
+		{"id":"n29","type":"text","text":"## Comunicación Visual","x":-1095,"y":400,"width":320,"height":90,"color":"6"},
+		{"id":"n30","type":"text","text":"Seres visuales\n(10 % vs. 65 % de recuerdo)","x":-1938,"y":656,"width":300,"height":80,"color":"6"},
+		{"id":"n31","type":"text","text":"Storytelling","x":-1888,"y":899,"width":300,"height":80,"color":"6"},
+		{"id":"n32","type":"text","text":"## Beneficios","x":-961,"y":642,"width":320,"height":90,"color":"5"},
+		{"id":"n33","type":"text","text":"Evita el exceso\nde información","x":-1961,"y":391,"width":300,"height":80,"color":"5"},
+		{"id":"n34","type":"text","text":"Facilita la comprensión","x":-1823,"y":1120,"width":300,"height":80,"color":"5"},
+		{"id":"n35","type":"text","text":"Socialización del contenido","x":-1733,"y":1312,"width":300,"height":80,"color":"5"},
+		{"id":"n36","type":"text","text":"## Historia","x":-640,"y":830,"width":320,"height":90,"color":"2"},
+		{"id":"n37","type":"text","text":"Charles Minard (1812-1813)","x":-1637,"y":1465,"width":300,"height":80,"color":"2"},
+		{"id":"n38","type":"text","text":"John Snow (cólera, 1854)","x":-1345,"y":1615,"width":300,"height":80,"color":"2"},
+		{"id":"n39","type":"text","text":"## Usuarios","x":-293,"y":938,"width":320,"height":90,"color":"6"},
+		{"id":"n40","type":"text","text":"Mensaje simple, concreto\ny creíble","x":-888,"y":1765,"width":300,"height":80,"color":"6"},
+		{"id":"n41","type":"text","text":"## Proceso de trabajo\ncon datos","x":447,"y":867,"width":320,"height":90,"color":"4"},
+		{"id":"n42","type":"text","text":"Recolección","x":126,"y":1858,"width":300,"height":80,"color":"4"},
+		{"id":"n43","type":"text","text":"Preparación y homologación","x":668,"y":1771,"width":300,"height":80,"color":"4"},
+		{"id":"n44","type":"text","text":"Herramientas de visualización","x":1125,"y":1621,"width":300,"height":80,"color":"4"},
+		{"id":"n45","type":"text","text":"Objetivo: exponer,\nexplicar o explorar","x":-302,"y":1859,"width":300,"height":80,"color":"4"},
+		{"id":"n46","type":"text","text":"Descubrir tendencias,\npatrones y anomalías","x":1418,"y":1471,"width":300,"height":80,"color":"4"},
+		{"id":"n47","type":"text","text":"## Roles profesionales","x":785,"y":591,"width":320,"height":90,"color":"6"},
+		{"id":"n48","type":"text","text":"8 roles (Andy Kirk)","x":1525,"y":1316,"width":300,"height":80,"color":"6"},
+		{"id":"n49","type":"text","text":"Competencias: buscar, filtrar,\nsintetizar, relacionar","x":1623,"y":1124,"width":300,"height":80,"color":"6"},
+		{"id":"n50","type":"text","text":"## Ética y buenas prácticas","x":895,"y":408,"width":320,"height":90,"color":"1"},
+		{"id":"n51","type":"text","text":"Visual Information\nManifesto (M. Lima)","x":1685,"y":904,"width":300,"height":80,"color":"1"},
+		{"id":"n52","type":"text","text":"Evitar el eye candy","x":1739,"y":660,"width":300,"height":80,"color":"1"},
+		{"id":"n53","type":"text","text":"## Ámbitos de aplicación","x":951,"y":128,"width":320,"height":90,"color":"5"},
+		{"id":"n54","type":"text","text":"Periodismo y medios","x":1761,"y":395,"width":300,"height":80,"color":"5"},
+		{"id":"n55","type":"text","text":"Empresa y marketing","x":1767,"y":115,"width":300,"height":80,"color":"5"},
+		{"id":"n56","type":"text","text":"**Leyenda**\n- Centro: concepto central\n- Nivel 2: conceptos secundarios (15)\n- Nivel 3: conceptos terciarios\n- Flechas rojas: relaciones cruzadas","x":-1838,"y":-2179,"width":420,"height":200}
+	],
+	"edges":[
+		{"id":"e0","fromNode":"n0","fromSide":"right","toNode":"n1","toSide":"left","label":"utiliza","color":"4"},
+		{"id":"e1","fromNode":"n1","fromSide":"right","toNode":"n2","toSide":"left","label":"se clasifican en"},
+		{"id":"e2","fromNode":"n1","fromSide":"right","toNode":"n3","toSide":"left","label":"pueden ser"},
+		{"id":"e3","fromNode":"n1","fromSide":"right","toNode":"n4","toSide":"left","label":"provienen de"},
+		{"id":"e4","fromNode":"n1","fromSide":"right","toNode":"n5","toSide":"left","label":"depende de"},
+		{"id":"e5","fromNode":"n1","fromSide":"top","toNode":"n6","toSide":"bottom","label":"se obtienen de"},
+		{"id":"e6","fromNode":"n0","fromSide":"top","toNode":"n7","toSide":"bottom","label":"transforma datos en","color":"4"},
+		{"id":"e7","fromNode":"n7","fromSide":"right","toNode":"n8","toSide":"left","label":"se califica por"},
+		{"id":"e8","fromNode":"n7","fromSide":"top","toNode":"n9","toSide":"bottom","label":"se califica por"},
+		{"id":"e9","fromNode":"n0","fromSide":"top","toNode":"n10","toSide":"bottom","label":"facilita","color":"4"},
+		{"id":"e10","fromNode":"n10","fromSide":"top","toNode":"n11","toSide":"bottom","label":"se explica con"},
+		{"id":"e11","fromNode":"n10","fromSide":"top","toNode":"n12","toSide":"bottom","label":"permite"},
+		{"id":"e12","fromNode":"n10","fromSide":"top","toNode":"n13","toSide":"bottom","label":"enfrenta"},
+		{"id":"e13","fromNode":"n0","fromSide":"top","toNode":"n14","toSide":"bottom","label":"depende de","color":"2"},
+		{"id":"e14","fromNode":"n14","fromSide":"top","toNode":"n15","toSide":"bottom","label":"requiere"},
+		{"id":"e15","fromNode":"n14","fromSide":"top","toNode":"n16","toSide":"bottom","label":"requiere"},
+		{"id":"e16","fromNode":"n14","fromSide":"left","toNode":"n17","toSide":"right","label":"busca"},
+		{"id":"e17","fromNode":"n0","fromSide":"left","toNode":"n18","toSide":"right","label":"relaciona","color":"3"},
+		{"id":"e18","fromNode":"n18","fromSide":"top","toNode":"n19","toSide":"bottom","label":"se organiza en"},
+		{"id":"e19","fromNode":"n18","fromSide":"left","toNode":"n20","toSide":"right","label":"se clasifica en"},
+		{"id":"e20","fromNode":"n18","fromSide":"left","toNode":"n21","toSide":"right","label":"se clasifica en"},
+		{"id":"e21","fromNode":"n0","fromSide":"left","toNode":"n22","toSide":"right","label":"relaciona","color":"3"},
+		{"id":"e22","fromNode":"n22","fromSide":"left","toNode":"n23","toSide":"right","label":"se basa en"},
+		{"id":"e23","fromNode":"n22","fromSide":"left","toNode":"n24","toSide":"right","label":"utiliza"},
+		{"id":"e24","fromNode":"n22","fromSide":"left","toNode":"n25","toSide":"right","label":"adopta"},
+		{"id":"e25","fromNode":"n0","fromSide":"left","toNode":"n26","toSide":"right","label":"combate","color":"1"},
+		{"id":"e26","fromNode":"n26","fromSide":"right","toNode":"n27","toSide":"left","label":"se agrava con"},
+		{"id":"e27","fromNode":"n26","fromSide":"left","toNode":"n28","toSide":"right","label":"produce"},
+		{"id":"e28","fromNode":"n0","fromSide":"left","toNode":"n29","toSide":"right","label":"utiliza","color":"6"},
+		{"id":"e29","fromNode":"n29","fromSide":"left","toNode":"n30","toSide":"right","label":"se fundamenta en"},
+		{"id":"e30","fromNode":"n29","fromSide":"left","toNode":"n31","toSide":"right","label":"se apoya en"},
+		{"id":"e31","fromNode":"n0","fromSide":"left","toNode":"n32","toSide":"right","label":"produce","color":"5"},
+		{"id":"e32","fromNode":"n32","fromSide":"left","toNode":"n33","toSide":"right","label":"incluye"},
+		{"id":"e33","fromNode":"n32","fromSide":"left","toNode":"n34","toSide":"right","label":"incluye"},
+		{"id":"e34","fromNode":"n32","fromSide":"left","toNode":"n35","toSide":"right","label":"incluye"},
+		{"id":"e35","fromNode":"n0","fromSide":"bottom","toNode":"n36","toSide":"top","label":"tiene como antecedente","color":"2"},
+		{"id":"e36","fromNode":"n36","fromSide":"left","toNode":"n37","toSide":"right","label":"incluye a"},
+		{"id":"e37","fromNode":"n36","fromSide":"bottom","toNode":"n38","toSide":"top","label":"incluye a"},
+		{"id":"e38","fromNode":"n0","fromSide":"bottom","toNode":"n39","toSide":"top","label":"se dirige a","color":"6"},
+		{"id":"e39","fromNode":"n39","fromSide":"bottom","toNode":"n40","toSide":"top","label":"necesitan"},
+		{"id":"e40","fromNode":"n0","fromSide":"bottom","toNode":"n41","toSide":"top","label":"requiere","color":"4"},
+		{"id":"e41","fromNode":"n41","fromSide":"bottom","toNode":"n42","toSide":"top","label":"inicia con"},
+		{"id":"e42","fromNode":"n41","fromSide":"bottom","toNode":"n43","toSide":"top","label":"continúa con"},
+		{"id":"e43","fromNode":"n41","fromSide":"bottom","toNode":"n44","toSide":"top","label":"se apoya en"},
+		{"id":"e44","fromNode":"n41","fromSide":"bottom","toNode":"n45","toSide":"top","label":"define"},
+		{"id":"e45","fromNode":"n41","fromSide":"right","toNode":"n46","toSide":"left","label":"busca"},
+		{"id":"e46","fromNode":"n0","fromSide":"right","toNode":"n47","toSide":"left","label":"es realizada por","color":"6"},
+		{"id":"e47","fromNode":"n47","fromSide":"right","toNode":"n48","toSide":"left","label":"se organizan en"},
+		{"id":"e48","fromNode":"n47","fromSide":"right","toNode":"n49","toSide":"left","label":"requieren"},
+		{"id":"e49","fromNode":"n0","fromSide":"right","toNode":"n50","toSide":"left","label":"se rige por","color":"1"},
+		{"id":"e50","fromNode":"n50","fromSide":"right","toNode":"n51","toSide":"left","label":"se basa en"},
+		{"id":"e51","fromNode":"n50","fromSide":"right","toNode":"n52","toSide":"left","label":"exige"},
+		{"id":"e52","fromNode":"n0","fromSide":"right","toNode":"n53","toSide":"left","label":"se aplica en","color":"5"},
+		{"id":"e53","fromNode":"n53","fromSide":"right","toNode":"n54","toSide":"left","label":"como"},
+		{"id":"e54","fromNode":"n53","fromSide":"right","toNode":"n55","toSide":"left","label":"como"},
+		{"id":"e55","fromNode":"n18","toNode":"n22","label":"continuo presentación ↔ exploración (Cairo)","color":"1","toEnd":"arrow","fromSide":"bottom","toSide":"top"},
+		{"id":"e56","fromNode":"n27","toNode":"n1","label":"multiplica","color":"1","toEnd":"arrow","fromSide":"bottom","toSide":"top"},
+		{"id":"e57","fromNode":"n26","toNode":"n33","label":"se resuelve con","color":"1","toEnd":"arrow","fromSide":"left","toSide":"right"},
+		{"id":"e58","fromNode":"n13","toNode":"n31","label":"se supera con","color":"1","toEnd":"arrow","fromSide":"bottom","toSide":"top"},
+		{"id":"e59","fromNode":"n5","toNode":"n12","label":"condiciona","color":"1","toEnd":"arrow","fromSide":"left","toSide":"right"},
+		{"id":"e60","fromNode":"n2","toNode":"n24","label":"determinan","color":"1","toEnd":"arrow","fromSide":"left","toSide":"right"},
+		{"id":"e61","fromNode":"n38","toNode":"n12","label":"ejemplifica","color":"1","toEnd":"arrow","fromSide":"top","toSide":"bottom"},
+		{"id":"e62","fromNode":"n44","toNode":"n23","label":"permiten","color":"1","toEnd":"arrow","fromSide":"left","toSide":"right"},
+		{"id":"e63","fromNode":"n19","toNode":"n31","label":"organiza","color":"1","toEnd":"arrow","fromSide":"bottom","toSide":"top"},
+		{"id":"e64","fromNode":"n35","toNode":"n39","label":"llega a","color":"1","toEnd":"arrow","fromSide":"right","toSide":"left"},
+		{"id":"e65","fromNode":"n7","toNode":"n29","label":"se transmite mediante","color":"1","toEnd":"arrow","fromSide":"left","toSide":"right"},
+		{"id":"e66","fromNode":"n52","toNode":"n16","label":"equilibra","color":"1","toEnd":"arrow","fromSide":"left","toSide":"right"},
+		{"id":"e67","fromNode":"n45","toNode":"n39","label":"depende de","color":"1","toEnd":"arrow","fromSide":"top","toSide":"bottom"},
+		{"id":"e68","fromNode":"n48","toNode":"n41","label":"participan en sus fases","color":"1","toEnd":"arrow","fromSide":"left","toSide":"right"},
+		{"id":"e69","fromNode":"n6","toNode":"n4","label":"incluyen","color":"1","toEnd":"arrow","fromSide":"bottom","toSide":"top"}
+	]
 }
