@@ -15,11 +15,16 @@ Me parece interesante que la mayor parte del Big Data sea de este tipo. Para vis
 ## Importancia
 Exigen más preparación, pero contienen información valiosa que no está en las tablas.
 
+## En el libro
+- Ejemplo del libro: la frase «Tenemos 5 canicas verdes, usadas, con un diámetro de 16 mm y que cuestan 1 € cada una» la entiende cualquier persona, pero no un ordenador: no tiene estructura subyacente.
+- Los PDF y las imágenes escaneadas contienen información útil para el ojo humano, pero no son legibles por una máquina.
+
 ## Relacionado con
 - [[Tipos de Datos]]
 - [[Datos Estructurados]]
 - [[Big Data]]
 - [[Preparación de Datos]]
+- [[Formatos de Datos]]
 
 ## Fuente
-Contenido de la Unidad 1.
+Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 2 «Trabajando con datos», apartado «Datos estructurados vs. datos no estructurados». Ver [[Alcalde - Visualización de la Información]].

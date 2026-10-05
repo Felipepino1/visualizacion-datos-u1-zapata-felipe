@@ -21,6 +21,8 @@ Permite que el conocimiento de un proyecto de datos sea reutilizable, trazable y
 - [[Pirámide DIKW]]
 - [[Visualización de Información]]
 - [[Proceso de Trabajo con Datos]]
+- [[Roles Profesionales]]
+- [[Competencias del Visualizador]]
 
 ## Fuente
 Contenido de la Unidad 1; actividad de la evaluación.

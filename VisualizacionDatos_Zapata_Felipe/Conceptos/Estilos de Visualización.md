@@ -21,6 +21,7 @@ El estilo influye en la credibilidad y en la socialización del contenido.
 - [[Interactividad]]
 - [[Usuarios]]
 - [[Socialización del Contenido]]
+- [[Objetivos de la Visualización]]
 
 ## Fuente
 Contenido de la Unidad 1; Tufte (2001); Cairo (2011).

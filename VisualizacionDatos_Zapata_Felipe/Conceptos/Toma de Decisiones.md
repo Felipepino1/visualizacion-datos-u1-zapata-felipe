@@ -25,6 +25,7 @@ Conecta la visualización con el valor organizacional; es el eje de la pregunta 
 - [[Proceso de Trabajo con Datos]]
 - [[Historia de la Visualización]]
 - [[Ámbitos de Aplicación]]
+- [[Ética de la Visualización]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1 («Contexto»). Ver [[Alcalde - Visualización de la Información]].

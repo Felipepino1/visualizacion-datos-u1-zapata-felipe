@@ -25,6 +25,7 @@ Es una herramienta potente para comunicar un mensaje clave a públicos amplios, 
 - [[Visualización de Información]]
 - [[Socialización del Contenido]]
 - [[Ámbitos de Aplicación]]
+- [[Objetivos de la Visualización]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «Infografía vs. visualización». Ver [[Alcalde - Visualización de la Información]].

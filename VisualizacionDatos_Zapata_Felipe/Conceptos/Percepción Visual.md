@@ -22,6 +22,8 @@ Fundamenta las buenas prácticas: usar atributos que el ojo procesa rápido (pos
 - [[Historia de la Visualización]]
 - [[Tipos de Gráficos]]
 - [[Tipos de Datos]]
+- [[Descubrimientos en los Datos]]
+- [[Competencias del Visualizador]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «Contexto». Ver [[Alcalde - Visualización de la Información]].

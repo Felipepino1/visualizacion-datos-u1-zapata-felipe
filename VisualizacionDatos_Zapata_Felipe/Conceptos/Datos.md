@@ -15,6 +15,11 @@ Entiendo los datos como piezas sueltas de un rompecabezas: un 9,5 % no dice nada
 ## Importancia
 Sin datos de calidad no hay visualización confiable. Todo gráfico hereda los errores de los datos que representa, por eso la preparación de datos es el primer paso del trabajo.
 
+## En el libro
+- La RAE define dato como «información dispuesta de manera adecuada para su tratamiento por un ordenador».
+- Alcalde los define como **un registro de actividad**: «25 °C» no dice nada hasta que se agrega contexto (30 de mayo, 12:00 h, plaza de Cataluña, Barcelona).
+- Todo objeto cotidiano tiene datos inherentes; el autor lo ilustra con una fotografía de canicas (color, tamaño, estado, cantidad).
+
 ## Relacionado con
 - [[Información]]
 - [[Tipos de Datos]]
@@ -22,7 +27,8 @@ Sin datos de calidad no hay visualización confiable. Todo gráfico hereda los e
 - [[Recolección de Datos]]
 - [[Big Data]]
 - [[Pirámide DIKW]]
+- [[Fuentes de Datos]]
 - [[Visualización de Datos]]
 
 ## Fuente
-Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «El diseño de la información». Ver [[Alcalde - Visualización de la Información]].
+Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1 y cap. 2 «Trabajando con datos», apartado «El origen: los datos». Ver [[Alcalde - Visualización de la Información]].

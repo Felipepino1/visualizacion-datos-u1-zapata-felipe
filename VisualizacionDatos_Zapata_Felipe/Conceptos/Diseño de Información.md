@@ -23,6 +23,7 @@ Es el bloque de «forma» de la visualización: sin buen diseño, la mejor infor
 - [[Estilos de Visualización]]
 - [[Infoxicación]]
 - [[Comunicación Visual]]
+- [[Competencias del Visualizador]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1. Ver [[Alcalde - Visualización de la Información]].

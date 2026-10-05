@@ -24,6 +24,7 @@ Permite analizar grandes volúmenes de datos y encontrar patrones que en una tab
 - [[Big Data]]
 - [[Datos Abiertos]]
 - [[Proceso de Trabajo con Datos]]
+- [[Objetivos de la Visualización]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «Infografía vs. visualización». Ver [[Alcalde - Visualización de la Información]].

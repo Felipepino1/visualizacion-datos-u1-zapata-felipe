@@ -24,6 +24,7 @@ Es el canal por el cual la visualización llega a las personas; conecta diseño,
 - [[Paradoja del Conocimiento]]
 - [[Historia de la Visualización]]
 - [[Socialización del Contenido]]
+- [[Competencias del Visualizador]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «Beneficios de la visualización». Ver [[Alcalde - Visualización de la Información]].

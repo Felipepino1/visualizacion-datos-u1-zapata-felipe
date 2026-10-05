@@ -15,12 +15,18 @@ Son los que más conozco por informática: una tabla SQL o un Excel. Son los má
 ## Importancia
 La mayoría de las herramientas de visualización trabajan directamente con datos estructurados, así que suelen ser el formato al que hay que llegar después de preparar los datos.
 
+## En el libro
+- Para que los datos sean útiles «deben tener una estructura que facilite su lectura», por ejemplo una tabla de Excel con columnas y cabeceras que identifiquen el tipo de dato.
+- El autor dice que los datos estructurados son «la mínima unidad de información».
+- Un formato típico para que el ordenador los lea es el CSV (ver [[Formatos de Datos]]).
+
 ## Relacionado con
 - [[Tipos de Datos]]
 - [[Datos No Estructurados]]
 - [[Preparación de Datos]]
 - [[Herramientas de Visualización]]
+- [[Formatos de Datos]]
 - [[Datos Abiertos]]
 
 ## Fuente
-Contenido de la Unidad 1.
+Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 2 «Trabajando con datos», apartados «Datos, información y conocimiento» y «Datos estructurados vs. datos no estructurados». Ver [[Alcalde - Visualización de la Información]].

@@ -22,6 +22,7 @@ Amplía el alcance del mensaje, pero también exige responsabilidad: un gráfico
 - [[Comunicación Visual]]
 - [[Calidad de Datos]]
 - [[Ámbitos de Aplicación]]
+- [[Ética de la Visualización]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «Beneficios de la visualización». Ver [[Alcalde - Visualización de la Información]].
