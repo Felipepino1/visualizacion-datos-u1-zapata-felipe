@@ -20,6 +20,8 @@ Es el problema que justifica la existencia de la visualización: filtrar, cribar
 - [[Big Data]]
 - [[Beneficios de la Visualización]]
 - [[Toma de Decisiones]]
+- [[Storytelling]]
+- [[Diseño de Información]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «Contexto». Ver [[Alcalde - Visualización de la Información]].

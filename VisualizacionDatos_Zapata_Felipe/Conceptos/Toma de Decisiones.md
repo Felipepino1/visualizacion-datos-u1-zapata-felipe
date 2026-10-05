@@ -21,6 +21,7 @@ Conecta la visualización con el valor organizacional; es el eje de la pregunta 
 - [[Beneficios de la Visualización]]
 - [[Storytelling]]
 - [[Pirámide DIKW]]
+- [[Calidad de Datos]]
 - [[Proceso de Trabajo con Datos]]
 - [[Historia de la Visualización]]
 - [[Ámbitos de Aplicación]]

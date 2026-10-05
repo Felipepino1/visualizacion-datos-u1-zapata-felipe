@@ -20,6 +20,7 @@ Demuestra que la visualización no es una moda digital, sino una forma humana y 
 - [[Comunicación Visual]]
 - [[Toma de Decisiones]]
 - [[Percepción Visual]]
+- [[Datos Abiertos]]
 - [[Ámbitos de Aplicación]]
 
 ## Fuente

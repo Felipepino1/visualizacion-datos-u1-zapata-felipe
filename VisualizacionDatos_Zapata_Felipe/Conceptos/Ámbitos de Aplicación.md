@@ -20,6 +20,8 @@ Muestra la transversalidad de la disciplina y su aplicación en contextos organi
 - [[Tipos de Infografía]]
 - [[Toma de Decisiones]]
 - [[Historia de la Visualización]]
+- [[Datos Abiertos]]
+- [[Socialización del Contenido]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «Ejemplos y disciplinas implicadas». Ver [[Alcalde - Visualización de la Información]].

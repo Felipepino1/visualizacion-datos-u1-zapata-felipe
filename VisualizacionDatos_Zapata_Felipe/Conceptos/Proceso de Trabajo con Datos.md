@@ -22,6 +22,7 @@ Da orden y trazabilidad al trabajo, y conecta la técnica con la toma de decisio
 - [[Storytelling]]
 - [[Toma de Decisiones]]
 - [[Estructura de la Infografía]]
+- [[Gestión del Conocimiento]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1 («Infografía: Estructura»); contenido de la Unidad 1. Ver [[Alcalde - Visualización de la Información]].

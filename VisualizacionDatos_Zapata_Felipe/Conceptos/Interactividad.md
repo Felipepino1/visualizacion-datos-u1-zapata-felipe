@@ -20,6 +20,7 @@ Convierte al usuario en analista y permite manejar grandes volúmenes sin satura
 - [[Usuarios]]
 - [[Herramientas de Visualización]]
 - [[Estilos de Visualización]]
+- [[Big Data]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1. Ver [[Alcalde - Visualización de la Información]].

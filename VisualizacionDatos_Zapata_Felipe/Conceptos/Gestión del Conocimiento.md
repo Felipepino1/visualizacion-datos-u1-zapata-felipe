@@ -20,6 +20,7 @@ Permite que el conocimiento de un proyecto de datos sea reutilizable, trazable y
 - [[Herramientas de Visualización]]
 - [[Pirámide DIKW]]
 - [[Visualización de Información]]
+- [[Proceso de Trabajo con Datos]]
 
 ## Fuente
 Contenido de la Unidad 1; actividad de la evaluación.

@@ -22,6 +22,7 @@ Permite analizar grandes volúmenes de datos y encontrar patrones que en una tab
 - [[Interactividad]]
 - [[Tipos de Gráficos]]
 - [[Big Data]]
+- [[Datos Abiertos]]
 - [[Proceso de Trabajo con Datos]]
 
 ## Fuente

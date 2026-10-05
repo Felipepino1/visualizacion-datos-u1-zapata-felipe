@@ -21,6 +21,7 @@ Un gráfico mal elegido distorsiona el mensaje aunque los datos sean correctos.
 - [[Buenas Prácticas]]
 - [[Tipos de Infografía]]
 - [[Herramientas de Visualización]]
+- [[Percepción Visual]]
 
 ## Fuente
 Contenido de la Unidad 1 (tipos de gráficos); Few, S. (2012) *Show Me the Numbers*.

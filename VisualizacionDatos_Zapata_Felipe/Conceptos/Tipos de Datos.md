@@ -21,6 +21,7 @@ El tipo de dato determina el tipo de gráfico, la escala y el color adecuados. E
 - [[Datos No Estructurados]]
 - [[Tipos de Gráficos]]
 - [[Calidad de Datos]]
+- [[Percepción Visual]]
 
 ## Fuente
 Contenido de la Unidad 1; Alcalde anuncia su desarrollo en el cap. 2 (categorías y tipologías de datos). Ver [[Alcalde - Visualización de la Información]].

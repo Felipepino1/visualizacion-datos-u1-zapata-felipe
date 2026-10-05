@@ -21,6 +21,7 @@ Elegir la herramienta adecuada depende del volumen de datos, la interactividad r
 - [[Datos Estructurados]]
 - [[Tipos de Gráficos]]
 - [[Gestión del Conocimiento]]
+- [[Datos Abiertos]]
 
 ## Fuente
 Contenido de la Unidad 1.

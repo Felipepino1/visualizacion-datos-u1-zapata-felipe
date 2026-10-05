@@ -20,6 +20,7 @@ Es una guía práctica para construir mensajes visuales ordenados y verificables
 - [[Storytelling]]
 - [[Buenas Prácticas]]
 - [[Proceso de Trabajo con Datos]]
+- [[Paradoja del Conocimiento]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «Infografía: Estructura». Ver [[Alcalde - Visualización de la Información]].

@@ -21,6 +21,7 @@ Es el bloque de «forma» de la visualización: sin buen diseño, la mejor infor
 - [[Infografía]]
 - [[Buenas Prácticas]]
 - [[Estilos de Visualización]]
+- [[Infoxicación]]
 - [[Comunicación Visual]]
 
 ## Fuente

@@ -22,6 +22,7 @@ Define el nivel de complejidad, el estilo, la interactividad y el lenguaje de la
 - [[Comunicación Visual]]
 - [[Tipos de Infografía]]
 - [[Datos Abiertos]]
+- [[Storytelling]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1 («Infografía: Estructura»). Ver [[Alcalde - Visualización de la Información]].

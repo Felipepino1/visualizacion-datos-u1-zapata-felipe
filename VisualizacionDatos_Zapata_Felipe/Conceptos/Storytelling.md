@@ -21,6 +21,8 @@ Hace que la información se recuerde y que lleve a la acción; es clave para pre
 - [[Comunicación Visual]]
 - [[Paradoja del Conocimiento]]
 - [[Toma de Decisiones]]
+- [[Usuarios]]
+- [[Infoxicación]]
 - [[Proceso de Trabajo con Datos]]
 
 ## Fuente
