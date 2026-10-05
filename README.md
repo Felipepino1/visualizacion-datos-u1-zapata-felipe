@@ -10,6 +10,7 @@
 | **Carrera** | Ingeniería en Informática – INACAP |
 | **Fecha** | Octubre 2026 |
 | **Evaluación** | Sumativa Unidad 1 (30 %) |
+| **Docente** | Javier Ignacio Miles Avello |
 
 ## Descripción del Proyecto
 
