@@ -44,7 +44,7 @@ PORTADA = """
     <tr><td>Carrera</td><td>Ingeniería en Informática</td></tr>
     <tr><td>Docente</td><td>Javier Ignacio Miles Avello</td></tr>
     <tr><td>Fecha</td><td>5 de octubre de 2026</td></tr>
-    <tr><td>Repositorio</td><td>github.com/&lt;usuario&gt;/visualizacion-datos-u1-zapata-felipe</td></tr>
+    <tr><td>Repositorio</td><td>github.com/Felipepino1/visualizacion-datos-u1-zapata-felipe</td></tr>
   </table>
 </section>"""
 
