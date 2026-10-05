@@ -17,6 +17,8 @@ Permite ubicar en qué etapa está un proyecto: si solo tengo tablas, estoy en d
 - [[Datos]]
 - [[Información]]
 - [[Conocimiento]]
+- [[Toma de Decisiones]]
+- [[Gestión del Conocimiento]]
 
 ## Fuente
 Modelo DIKW (Ackoff, 1989), complementario a la lectura del cap. 1.

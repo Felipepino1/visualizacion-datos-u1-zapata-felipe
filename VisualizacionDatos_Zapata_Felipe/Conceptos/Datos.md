@@ -20,6 +20,7 @@ Sin datos de calidad no hay visualización confiable. Todo gráfico hereda los e
 - [[Recolección de Datos]]
 - [[Big Data]]
 - [[Pirámide DIKW]]
+- [[Visualización de Datos]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «El diseño de la información». Ver [[Alcalde - Visualización de la Información]].

@@ -17,6 +17,7 @@ El tipo de dato determina el tipo de gráfico, la escala y el color adecuados. E
 - [[Datos]]
 - [[Datos Estructurados]]
 - [[Datos No Estructurados]]
+- [[Tipos de Gráficos]]
 - [[Calidad de Datos]]
 
 ## Fuente

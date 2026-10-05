@@ -15,6 +15,9 @@ Recuerda que quien diseña la visualización no es el usuario. Hay que pensar en
 
 ## Relacionado con
 - [[Conocimiento]]
+- [[Usuarios]]
+- [[Comunicación Visual]]
+- [[Storytelling]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «Contexto». Ver [[Alcalde - Visualización de la Información]].

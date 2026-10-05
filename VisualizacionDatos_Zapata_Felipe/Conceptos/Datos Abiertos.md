@@ -17,6 +17,7 @@ Promueven la transparencia, la reproducibilidad y el periodismo de datos; son un
 - [[Recolección de Datos]]
 - [[Calidad de Datos]]
 - [[Datos Estructurados]]
+- [[Usuarios]]
 
 ## Fuente
 Contenido de la Unidad 1; Open Definition (Open Knowledge Foundation).

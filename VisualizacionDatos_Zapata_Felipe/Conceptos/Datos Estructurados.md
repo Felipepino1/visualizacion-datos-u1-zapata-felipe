@@ -17,6 +17,7 @@ La mayoría de las herramientas de visualización trabajan directamente con dato
 - [[Tipos de Datos]]
 - [[Datos No Estructurados]]
 - [[Preparación de Datos]]
+- [[Herramientas de Visualización]]
 - [[Datos Abiertos]]
 
 ## Fuente

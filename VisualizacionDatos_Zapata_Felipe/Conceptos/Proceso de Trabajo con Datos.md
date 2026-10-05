@@ -16,6 +16,10 @@ Da orden y trazabilidad al trabajo, y conecta la técnica con la toma de decisio
 ## Relacionado con
 - [[Recolección de Datos]]
 - [[Preparación de Datos]]
+- [[Visualización de Datos]]
+- [[Storytelling]]
+- [[Toma de Decisiones]]
+- [[Estructura de la Infografía]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1 («Infografía: Estructura»); contenido de la Unidad 1. Ver [[Alcalde - Visualización de la Información]].

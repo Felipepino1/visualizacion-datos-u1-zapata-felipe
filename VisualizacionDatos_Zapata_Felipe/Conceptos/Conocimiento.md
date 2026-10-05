@@ -17,6 +17,9 @@ Es el objetivo final de la visualización: no basta con mostrar datos bonitos, e
 - [[Información]]
 - [[Pirámide DIKW]]
 - [[Paradoja del Conocimiento]]
+- [[Toma de Decisiones]]
+- [[Visualización de Información]]
+- [[Gestión del Conocimiento]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1. Ver [[Alcalde - Visualización de la Información]].

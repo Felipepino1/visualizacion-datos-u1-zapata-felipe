@@ -17,6 +17,7 @@ Determina la credibilidad de cualquier visualización y, por lo tanto, de las de
 - [[Datos]]
 - [[Preparación de Datos]]
 - [[Recolección de Datos]]
+- [[Buenas Prácticas]]
 - [[Información]]
 - [[Tipos de Datos]]
 - [[Datos Abiertos]]

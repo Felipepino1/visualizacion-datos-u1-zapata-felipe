@@ -16,8 +16,10 @@ La visualización trabaja precisamente sobre la información: su función es log
 ## Relacionado con
 - [[Datos]]
 - [[Conocimiento]]
+- [[Diseño de Información]]
 - [[Infoxicación]]
 - [[Pirámide DIKW]]
+- [[Visualización de Información]]
 - [[Calidad de Datos]]
 
 ## Fuente

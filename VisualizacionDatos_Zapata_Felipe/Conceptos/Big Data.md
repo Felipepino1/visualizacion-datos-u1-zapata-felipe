@@ -17,6 +17,8 @@ Hace necesaria la visualización: es la única forma práctica de explorar volú
 - [[Datos]]
 - [[Datos No Estructurados]]
 - [[Infoxicación]]
+- [[Herramientas de Visualización]]
+- [[Visualización de Datos]]
 
 ## Fuente
 Alcalde, I. *Visualización de la información. De los datos al conocimiento*. Editorial UOC, cap. 1, apartado «Contexto». Ver [[Alcalde - Visualización de la Información]].
