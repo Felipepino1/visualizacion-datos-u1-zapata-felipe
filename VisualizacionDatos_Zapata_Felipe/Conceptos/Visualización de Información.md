@@ -4,6 +4,8 @@ area: "Visualización y diseño"
 ---
 # Visualización de Información
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Visualización y diseño**
+
 ## Definición
 Proposición general del libro: multidisciplina que representa los datos transformándolos en información semántica a través de medios gráficos, combinando funcionalidad, estética y simplicidad. Se compone de dos bloques: contenido (información) y forma (diseño). Colin Ware la define como representaciones visuales interactivas de datos abstractos para amplificar la cognición.
 

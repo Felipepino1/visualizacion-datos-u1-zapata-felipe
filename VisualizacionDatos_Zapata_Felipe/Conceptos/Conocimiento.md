@@ -4,6 +4,8 @@ area: "Fundamentos: datos, información y conocimiento"
 ---
 # Conocimiento
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Fundamentos: datos, información y conocimiento**
+
 ## Definición
 El conocimiento es el resultado de comprender y asimilar la información, integrándola con lo que ya sabemos para poder usarla, explicar fenómenos y tomar decisiones. El subtítulo del libro, *de los datos al conocimiento*, resume el recorrido completo.
 

@@ -4,6 +4,8 @@ area: "Visualización y diseño"
 ---
 # Tipos de Infografía
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Visualización y diseño**
+
 ## Definición
 Alcalde las clasifica **según su composición**: cronológica, comparativa, diagrama de flujo, descriptiva, secuencial, estadística, geográfica y jerárquica; y **según su finalidad**: periodística, didáctica, informativa y empresarial.
 

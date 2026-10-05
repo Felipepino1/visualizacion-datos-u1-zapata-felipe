@@ -4,6 +4,8 @@ area: "Práctica y aplicación"
 ---
 # Buenas Prácticas
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Práctica y aplicación**
+
 ## Definición
 Reglas para visualizaciones efectivas: un mensaje por gráfico, eje Y desde cero en barras, máxima relación datos-tinta (Tufte), evitar 3D y adornos (*chartjunk*), color con propósito y accesible, títulos que comuniquen la conclusión, etiquetas directas y citar siempre la fuente.
 

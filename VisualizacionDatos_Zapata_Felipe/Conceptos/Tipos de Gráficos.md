@@ -4,6 +4,8 @@ area: "Visualización y diseño"
 ---
 # Tipos de Gráficos
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Visualización y diseño**
+
 ## Definición
 Repertorio de formas para representar datos según la pregunta: **comparación** (barras), **evolución** (líneas, áreas), **composición** (barras apiladas, treemap; torta solo con pocas categorías), **distribución** (histograma, boxplot), **relación** (dispersión, burbujas) y **ubicación** (mapas coropléticos).
 

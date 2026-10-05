@@ -4,6 +4,8 @@ area: "Visualización y diseño"
 ---
 # Diseño de Información
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Visualización y diseño**
+
 ## Definición
 Disciplina que organiza y presenta la información para que sea comprendida de forma eficiente. Según el libro, combina contenido y forma; Friedman (2008) insiste en que la dimensión estética y la funcional deben ir de la mano.
 

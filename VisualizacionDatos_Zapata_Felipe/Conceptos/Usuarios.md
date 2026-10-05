@@ -4,6 +4,8 @@ area: "Comunicación y personas"
 ---
 # Usuarios
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Comunicación y personas**
+
 ## Definición
 Audiencia a la que va dirigida una visualización: su nivel de conocimiento, sus necesidades, su contexto y su objetivo. La introducción de una infografía responde a «¿por qué debería interesarle al lector?».
 

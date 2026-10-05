@@ -4,6 +4,8 @@ area: "Comunicación y personas"
 ---
 # Comunicación Visual
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Comunicación y personas**
+
 ## Definición
 Transmisión de mensajes mediante elementos visuales (imágenes, iconos, color, forma, composición). La imagen funciona como un metalenguaje que se interpreta más rápido que la escritura.
 

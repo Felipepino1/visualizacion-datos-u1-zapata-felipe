@@ -4,6 +4,8 @@ area: "Visualización y diseño"
 ---
 # Estructura de la Infografía
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Visualización y diseño**
+
 ## Definición
 Toda infografía consta de tres secciones: **introducción** (título y párrafo que explica por qué interesa), **cuerpo** (bloque visual dominante con información novedosa y relevante, que termina en una conclusión o «moraleja») y **pie** (fuentes de los datos y autor).
 

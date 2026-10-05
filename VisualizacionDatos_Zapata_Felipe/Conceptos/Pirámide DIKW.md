@@ -4,6 +4,8 @@ area: "Fundamentos: datos, información y conocimiento"
 ---
 # Pirámide DIKW
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Fundamentos: datos, información y conocimiento**
+
 ## Definición
 Modelo jerárquico Datos → Información → Conocimiento → Sabiduría (*Data, Information, Knowledge, Wisdom*). Cada nivel agrega contexto, significado y capacidad de acción al anterior.
 

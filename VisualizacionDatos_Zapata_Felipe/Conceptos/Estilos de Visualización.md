@@ -4,6 +4,8 @@ area: "Visualización y diseño"
 ---
 # Estilos de Visualización
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Visualización y diseño**
+
 ## Definición
 Enfoques estéticos y funcionales con que se presenta una visualización: **minimalista/analítico** (máxima relación datos-tinta, Tufte), **figurativo/ilustrado** (infografía periodística), **narrativo** (scrollytelling) y **exploratorio/interactivo** (dashboards).
 

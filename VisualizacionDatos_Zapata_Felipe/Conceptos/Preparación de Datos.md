@@ -4,6 +4,8 @@ area: "Gestión de datos"
 ---
 # Preparación de Datos
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Gestión de datos**
+
 ## Definición
 Conjunto de tareas para dejar los datos listos para el análisis: limpieza, verificación de integridad, tratamiento de vacíos y duplicados, y **homologación** (unificar formatos, unidades y categorías).
 

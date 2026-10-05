@@ -4,6 +4,8 @@ area: "Visualización y diseño"
 ---
 # Visualización de Datos
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Visualización y diseño**
+
 ## Definición
 Estudio de la representación visual de datos abstractos, a menudo interactivos, para reforzar la cognición humana. Incluye datos numéricos, no numéricos, texto e información geográfica. Su eje es la exploración.
 

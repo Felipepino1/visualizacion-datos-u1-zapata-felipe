@@ -4,6 +4,8 @@ area: "Práctica y aplicación"
 ---
 # Gestión del Conocimiento
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Práctica y aplicación**
+
 ## Definición
 Prácticas y herramientas para capturar, organizar, conectar y compartir conocimiento. En esta actividad se aplica con Obsidian (notas enlazadas, grafo, MOC) y GitHub (versiones, trazabilidad).
 

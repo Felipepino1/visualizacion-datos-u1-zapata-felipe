@@ -4,6 +4,8 @@ area: "Gestión de datos"
 ---
 # Tipos de Datos
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Gestión de datos**
+
 ## Definición
 Clasificación de los datos según su naturaleza: **cuantitativos** (discretos y continuos) y **cualitativos** (nominales y ordinales), además de temporales y geográficos. También se clasifican por su estructura: estructurados, semiestructurados y no estructurados.
 

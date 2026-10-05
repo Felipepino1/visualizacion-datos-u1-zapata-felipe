@@ -4,6 +4,8 @@ area: "Gestión de datos"
 ---
 # Proceso de Trabajo con Datos
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Gestión de datos**
+
 ## Definición
 Secuencia que va desde la pregunta inicial hasta la comunicación: definir el objetivo → recolectar → preparar → analizar → visualizar → comunicar y decidir. Alcalde lo resume para la infografía: determinar el fin, recabar, filtrar, descubrir el punto clave y crear.
 

@@ -4,6 +4,8 @@ area: "Visualización y diseño"
 ---
 # Historia de la Visualización
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Visualización y diseño**
+
 ## Definición
 Recorrido histórico: pictogramas rupestres, jeroglíficos egipcios, culturas maya y azteca, el Tapiz de Bayeux (1077), Leonardo da Vinci y Copérnico, los periódicos ilustrados del siglo XVIII, Charles Minard (campaña de Rusia, 1812-1813) y John Snow (mapa del cólera, 1854), hasta USA Today y los ordenadores.
 

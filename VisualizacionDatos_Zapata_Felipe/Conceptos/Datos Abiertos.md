@@ -4,6 +4,8 @@ area: "Gestión de datos"
 ---
 # Datos Abiertos
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Gestión de datos**
+
 ## Definición
 Datos publicados por organismos públicos o privados en formatos reutilizables y con licencias libres, para que cualquiera pueda acceder a ellos, usarlos y redistribuirlos (por ejemplo, datos.gob.cl, INE, Our World in Data).
 

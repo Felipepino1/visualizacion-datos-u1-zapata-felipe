@@ -4,6 +4,8 @@ area: "Fundamentos: datos, información y conocimiento"
 ---
 # Big Data
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Fundamentos: datos, información y conocimiento**
+
 ## Definición
 Conjuntos de datos de volumen, velocidad y variedad tan grandes que superan las herramientas tradicionales. Alcalde cita que desde 2007 el 99,9 % de la información generada es digital, que se producen cerca de 2,5 trillones de bytes diarios (IBM) y que el 90 % de los datos del mundo se generó en los últimos dos años.
 

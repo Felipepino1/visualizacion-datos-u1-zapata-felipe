@@ -4,6 +4,8 @@ area: "Gestión de datos"
 ---
 # Datos No Estructurados
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Gestión de datos**
+
 ## Definición
 Datos sin un modelo predefinido: textos, correos, imágenes, audio, video, publicaciones en redes sociales. Representan la mayor parte de los datos generados hoy.
 

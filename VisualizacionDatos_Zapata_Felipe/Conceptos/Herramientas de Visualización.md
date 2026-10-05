@@ -4,6 +4,8 @@ area: "Práctica y aplicación"
 ---
 # Herramientas de Visualización
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Práctica y aplicación**
+
 ## Definición
 Software para analizar y visualizar datos: hojas de cálculo (Excel, Google Sheets), BI (Power BI, Tableau, Looker Studio), programación (Python con matplotlib/plotly, R con ggplot2, D3.js), herramientas de infografía (Canva, Flourish, Datawrapper) y de gestión del conocimiento (Obsidian).
 

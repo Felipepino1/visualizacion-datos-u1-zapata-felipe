@@ -4,6 +4,8 @@ area: "Comunicación y personas"
 ---
 # Storytelling
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Comunicación y personas**
+
 ## Definición
 Narrar con datos: organizar la visualización como un relato con contexto, conflicto y conclusión, guiando al lector hacia un mensaje clave. En la infografía corresponde a la introducción, el cuerpo y la «moraleja».
 

@@ -4,6 +4,8 @@ area: "Práctica y aplicación"
 ---
 # Ámbitos de Aplicación
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Práctica y aplicación**
+
 ## Definición
 Sectores donde el libro muestra ejemplos de visualización: periodismo, transporte, política, turismo, multimedia, informes y redes sociales. También el ámbito empresarial, el marketing, la ciencia, la investigación y la docencia.
 

@@ -4,6 +4,8 @@ area: "Práctica y aplicación"
 ---
 # Beneficios de la Visualización
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Práctica y aplicación**
+
 ## Definición
 El libro destaca tres: **evita el exceso de información** (filtra y criba lo relevante), **facilita la comprensión** (la imagen se interpreta más rápido que el texto) y **mejora la socialización del contenido**.
 

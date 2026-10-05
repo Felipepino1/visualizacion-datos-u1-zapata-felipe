@@ -4,6 +4,8 @@ area: "Visualización y diseño"
 ---
 # Infografía
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Visualización y diseño**
+
 ## Definición
 Representación más visual que textual, con descripciones, narraciones o interpretaciones presentadas de manera gráfica y normalmente figurativa. Debe ser fácil de interpretar y aportar gran cantidad de información. Según Cairo, se orienta a la presentación estática.
 

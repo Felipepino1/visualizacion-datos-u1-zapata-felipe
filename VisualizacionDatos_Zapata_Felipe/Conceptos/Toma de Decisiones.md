@@ -4,6 +4,8 @@ area: "Práctica y aplicación"
 ---
 # Toma de Decisiones
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Práctica y aplicación**
+
 ## Definición
 Proceso de elegir entre alternativas a partir de la información disponible. La visualización acelera y mejora este proceso; la infoxicación, en cambio, lo paraliza.
 

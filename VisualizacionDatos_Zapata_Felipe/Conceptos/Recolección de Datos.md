@@ -4,6 +4,8 @@ area: "Gestión de datos"
 ---
 # Recolección de Datos
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Gestión de datos**
+
 ## Definición
 Etapa en que se obtienen los datos: encuestas, registros administrativos, sensores, web scraping, APIs o fuentes de datos abiertos. La estrategia de recolección define qué preguntas se podrán responder.
 

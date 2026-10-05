@@ -4,6 +4,8 @@ area: "Comunicación y personas"
 ---
 # Percepción Visual
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Comunicación y personas**
+
 ## Definición
 Forma en que el cerebro procesa la información que entra por los ojos. «Somos seres visuales»: en el experimento citado de John Medina (*Brain Rules*), solo el 10 % recordaba información presentada oralmente, frente al 65 % cuando se acompañaba de una imagen.
 

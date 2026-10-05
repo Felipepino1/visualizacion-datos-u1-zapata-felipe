@@ -4,6 +4,8 @@ area: "Fundamentos: datos, información y conocimiento"
 ---
 # Datos
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Fundamentos: datos, información y conocimiento**
+
 ## Definición
 Los datos son la materia prima de todo el proceso: registros, cifras, hechos o observaciones aisladas que, por sí solos, no tienen significado. Alcalde los presenta como el punto de partida que, al ubicarse en un contexto, se transforma en información.
 

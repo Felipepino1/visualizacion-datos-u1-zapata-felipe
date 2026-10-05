@@ -4,6 +4,8 @@ area: "Visualización y diseño"
 ---
 # Interactividad
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Visualización y diseño**
+
 ## Definición
 Capacidad de una visualización para responder a las acciones del usuario: filtrar, hacer zoom, seleccionar o ver detalles. Según Cairo, marca el extremo «exploración» del continuo frente a la «presentación». Viégas y Wattenberg (2006) señalan que la visualización ideal estimula la participación del espectador.
 

@@ -4,6 +4,8 @@ area: "Fundamentos: datos, información y conocimiento"
 ---
 # Infoxicación
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Fundamentos: datos, información y conocimiento**
+
 ## Definición
 Término acuñado por Alfons Cornella que une *información* e *intoxicación*: el exceso de información al que estamos expuestos. Estar siempre «on» sin poder profundizar produce parálisis en la toma de decisiones, decisiones equivocadas, ansiedad y el síndrome de fatiga por información.
 

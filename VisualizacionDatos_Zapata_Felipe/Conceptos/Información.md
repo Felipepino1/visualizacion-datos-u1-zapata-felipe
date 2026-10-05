@@ -4,6 +4,8 @@ area: "Fundamentos: datos, información y conocimiento"
 ---
 # Información
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Fundamentos: datos, información y conocimiento**
+
 ## Definición
 Según Alcalde, la información es «un conjunto organizado de datos capaz de cambiar el estado de conocimiento del receptor». Se puede calificar por su significado (semántica), importancia, vigencia, validez y valor.
 

@@ -4,6 +4,8 @@ area: "Gestión de datos"
 ---
 # Calidad de Datos
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Gestión de datos**
+
 ## Definición
 Grado en que los datos son exactos, completos, consistentes, vigentes y válidos para el uso previsto. Se relaciona con las características de la información que menciona Alcalde: validez, vigencia y valor.
 

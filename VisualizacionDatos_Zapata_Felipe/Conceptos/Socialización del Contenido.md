@@ -4,6 +4,8 @@ area: "Comunicación y personas"
 ---
 # Socialización del Contenido
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Comunicación y personas**
+
 ## Definición
 Capacidad del contenido visual para ser compartido en la sociedad-red. Si es atractivo, fácil de digerir y aporta algo nuevo, se difunde; en eso se basan las agencias que usan infografías para marketing viral.
 

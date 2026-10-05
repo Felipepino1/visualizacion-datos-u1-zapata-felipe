@@ -4,6 +4,8 @@ area: "Gestión de datos"
 ---
 # Datos Estructurados
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Gestión de datos**
+
 ## Definición
 Datos organizados en un esquema fijo de filas y columnas (tablas, bases de datos relacionales, hojas de cálculo), con campos y tipos definidos que permiten consultarlos fácilmente.
 

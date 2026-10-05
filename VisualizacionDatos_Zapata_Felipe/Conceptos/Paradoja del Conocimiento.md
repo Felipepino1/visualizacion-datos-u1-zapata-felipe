@@ -4,6 +4,8 @@ area: "Fundamentos: datos, información y conocimiento"
 ---
 # Paradoja del Conocimiento
 
+> Parte de: [[Mapa General de Visualización de Datos]] · Área: **Fundamentos: datos, información y conocimiento**
+
 ## Definición
 Fenómeno descrito en el libro (también llamado *maldición del conocimiento*): una vez que sabemos algo, nos cuesta imaginar cómo era no saberlo, lo que dificulta compartirlo con otros.
 
