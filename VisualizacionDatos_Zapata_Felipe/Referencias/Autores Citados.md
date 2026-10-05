@@ -3,7 +3,7 @@ tags: [referencia, autores]
 ---
 # Autores Citados
 
-Autores que Alcalde cita en el capítulo 1 y la idea de cada uno que usé en la bóveda.
+Autores que Alcalde cita en el libro y la idea de cada uno que usé en la bóveda.
 
 | Autor | Aporte | Nota relacionada |
 |---|---|---|
@@ -15,6 +15,14 @@ Autores que Alcalde cita en el capítulo 1 y la idea de cada uno que usé en la 
 | **Alfons Cornella** | Concepto de infoxicación | [[Infoxicación]] |
 | **John Medina** | *Brain Rules*: 10 % vs. 65 % de recuerdo con imagen | [[Percepción Visual]] |
 | **Charles Minard / John Snow** | Pioneros de los gráficos estadísticos y la cartografía de datos | [[Historia de la Visualización]] |
+| **Tim Berners-Lee** | Esquema de 5 estrellas para datos abiertos | [[Formatos de Datos]], [[Datos Abiertos]] |
+| **Open Data Handbook** | Tres pilares de los datos abiertos | [[Datos Abiertos]] |
+| **Aaron Koblin / Hans Rosling** | Patrones de vuelo; Gapminder | [[Descubrimientos en los Datos]], [[Herramientas de Visualización]] |
+| **Andy Kirk** | «The 8 hats of data visualization design»; directorio *Visualising Data* | [[Roles Profesionales]] |
+| **Stephen Few** | Las habilidades para visualizar no son intuitivas, se aprenden | [[Competencias del Visualizador]] |
+| **Aron Pilhofer** | El periodismo de datos es «un problema de personas» | [[Ámbitos de Aplicación]] |
+| **Manuel Lima** | *Visual Information Manifesto* | [[Ética de la Visualización]], [[Buenas Prácticas]] |
+| **David McCandless** | «Diseñar para la comprensión» | [[Conocimiento]] |
 
 ## Bibliografía complementaria
 - Knaflic, C. N. (2015). *Storytelling with Data*. Wiley. → [[Storytelling]]

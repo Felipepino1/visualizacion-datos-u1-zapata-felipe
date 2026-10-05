@@ -6,12 +6,13 @@ tags: [reflexion]
 > Parte de: [[Mapa General de Visualización de Datos]]
 
 ## Qué hice
-Leí el capítulo 1 de [[Alcalde - Visualización de la Información]] y lo descompuse en 36 notas conceptuales agrupadas en cinco áreas: fundamentos, gestión de datos, visualización y diseño, comunicación y personas, y práctica y aplicación. Cada nota tiene definición, resumen personal, importancia y relaciones.
+Leí los cuatro capítulos de [[Alcalde - Visualización de la Información]] y los descompuse en 43 notas conceptuales agrupadas en cinco áreas: fundamentos, gestión de datos, visualización y diseño, comunicación y personas, y práctica y aplicación. Cada nota tiene definición, resumen personal, importancia y relaciones.
 
 ## Qué aprendí al enlazar
 - Resumir una nota es fácil; lo difícil es decidir **con qué se relaciona y por qué**. Ahí es donde la [[Información]] se convierte en [[Conocimiento]].
 - El Graph View mostró que [[Toma de Decisiones]] funciona como «nodo puente» entre las áreas: a ella llegan [[Infoxicación]], [[Calidad de Datos]], [[Storytelling]] y [[Beneficios de la Visualización]].
 - [[Usuarios]], [[Paradoja del Conocimiento]] y [[Storytelling]] forman un triángulo: diseñar pensando en el otro.
+- El capítulo 4 confirmó algo que intuía: según [[Roles Profesionales]], ninguna persona reúne todas las habilidades; visualizar es trabajo en equipo.
 - Visualizar mis propias notas me ayudó a entenderlas. Es la misma tesis del libro aplicada a mi aprendizaje ([[Gestión del Conocimiento]]).
 
 ## Relación con el análisis de visualizaciones reales

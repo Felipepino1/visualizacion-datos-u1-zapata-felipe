@@ -3,7 +3,7 @@ tags: [MOC]
 ---
 # Mapa General de Visualización de Datos
 
-Centro de navegación de la bóveda. Organiza las notas construidas a partir de [[Alcalde - Visualización de la Información]] siguiendo el recorrido del libro: **de los datos al conocimiento**.
+Centro de navegación de la bóveda. Organiza las notas construidas a partir de los cuatro capítulos de [[Alcalde - Visualización de la Información]] siguiendo el recorrido del libro: **de los datos al conocimiento**.
 
 > **Idea central:** la [[Visualización de Información]] transforma [[Datos]] en [[Información]] y facilita el paso al [[Conocimiento]], que sirve para la [[Toma de Decisiones]].
 
@@ -15,7 +15,8 @@ Centro de navegación de la bóveda. Organiza las notas construidas a partir de 
 - El desafío de comunicar: [[Paradoja del Conocimiento]]
 
 ## 2. Gestión de datos
-- Naturaleza de los datos: [[Tipos de Datos]], [[Datos Estructurados]], [[Datos No Estructurados]], [[Datos Abiertos]]
+- Naturaleza de los datos: [[Tipos de Datos]], [[Datos Estructurados]], [[Datos No Estructurados]], [[Formatos de Datos]]
+- Origen de los datos: [[Fuentes de Datos]], [[Datos Abiertos]]
 - Ciclo de trabajo: [[Recolección de Datos]] → [[Preparación de Datos]] → [[Calidad de Datos]]
 - Visión de conjunto: [[Proceso de Trabajo con Datos]]
 
@@ -23,6 +24,7 @@ Centro de navegación de la bóveda. Organiza las notas construidas a partir de 
 - Concepto central: [[Visualización de Información]] (contenido + forma)
 - Disciplinas: [[Visualización de Datos]], [[Diseño de Información]], [[Infografía]]
 - Infografía: [[Estructura de la Infografía]], [[Tipos de Infografía]]
+- Antes de diseñar: [[Objetivos de la Visualización]] (exponer, explicar, explorar) y [[Descubrimientos en los Datos]]
 - Formas y estilos: [[Tipos de Gráficos]], [[Estilos de Visualización]], [[Interactividad]]
 - Contexto histórico: [[Historia de la Visualización]]
 
@@ -34,18 +36,20 @@ Centro de navegación de la bóveda. Organiza las notas construidas a partir de 
 
 ## 5. Práctica y aplicación
 - [[Beneficios de la Visualización]]
-- [[Buenas Prácticas]]
+- [[Buenas Prácticas]] y [[Ética de la Visualización]]
 - [[Herramientas de Visualización]]
 - [[Ámbitos de Aplicación]]
+- [[Roles Profesionales]] y [[Competencias del Visualizador]]
 - [[Toma de Decisiones]]
 - [[Gestión del Conocimiento]]
 
 ---
 
 ## Rutas de lectura sugeridas
-1. **Del dato a la decisión:** [[Recolección de Datos]] → [[Preparación de Datos]] → [[Tipos de Gráficos]] → [[Storytelling]] → [[Toma de Decisiones]]
+1. **Del dato a la decisión:** [[Fuentes de Datos]] → [[Recolección de Datos]] → [[Preparación de Datos]] → [[Descubrimientos en los Datos]] → [[Tipos de Gráficos]] → [[Storytelling]] → [[Toma de Decisiones]]
 2. **Infografía vs. visualización:** [[Infografía]] ↔ [[Visualización de Datos]] ↔ [[Interactividad]]
-3. **Por qué visualizar:** [[Infoxicación]] → [[Percepción Visual]] → [[Beneficios de la Visualización]]
+3. **Quién visualiza y cómo:** [[Roles Profesionales]] → [[Competencias del Visualizador]] → [[Ética de la Visualización]]
+4. **Por qué visualizar:** [[Infoxicación]] → [[Percepción Visual]] → [[Beneficios de la Visualización]]
 
 ## Otros recursos de la bóveda
 - Mapa conceptual: `MapaConceptual/Mapa Conceptual Integrador.canvas`
